@@ -35,7 +35,7 @@ def build_html_page(title: str, body_html: str, extra_head: str = "") -> str:
                 <a href="/">首页</a>
                 <a href="/archive.html">归档</a>
                 <a href="/about.html">关于</a>
-                <a href="https://github.com" target="_blank">GitHub</a>
+                <a href="https://github.com/cowbook/github-trends-daily" target="_blank">GitHub</a>
             </nav>
         </div>
     </header>
@@ -175,7 +175,7 @@ def build_index() -> None:
         {post_cards or '<p class="empty">暂无博文，请稍候…</p>'}
     </section>
     <section class="cta">
-        <p>⭐ 喜欢这个项目？去 <a href="https://github.com">GitHub</a> 给个 Star 吧！</p>
+        <p>⭐ 喜欢这个项目？去 <a href="https://github.com/cowbook/github-trends-daily">GitHub</a> 给个 Star 吧！</p>
     </section>
     """
 
