@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-04",
+  "fetched_at": "2026-05-04T05:15:46.465264+00:00",
+  "count": 9,
+  "repos": [
+    {
+      "url": "https://github.com/ruvnet/ruflo",
+      "repo": "ruvnet / ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars_today": 1840,
+      "total_stars": 39396,
+      "total_forks": 4471,
+      "contributors": [
+        "ruvnet",
+        "claude",
+        "lanemc"
+      ]
+    },
+    {
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "repo": "TauricResearch / TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": 3313,
+      "total_stars": 65649,
+      "total_forks": 12724,
+      "contributors": [
+        "EdwardoSunny",
+        "luohy15",
+        "claude",
+        "CadeYu"
+      ]
+    },
+    {
+      "url": "https://github.com/soxoj/maigret",
+      "repo": "soxoj / maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars_today": 1119,
+      "total_stars": 24001,
+      "total_forks": 1693,
+      "contributors": [
+        "soxoj",
+        "dependabot",
+        "kustermariocoding",
+        "Copilot",
+        "fen0s"
+      ]
+    },
+    {
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "repo": "Hmbown / DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars_today": 343,
+      "total_stars": 2436,
+      "total_forks": 145,
+      "contributors": [
+        "Hmbown",
+        "claude",
+        "qwencoder",
+        "Copilot"
+      ]
+    },
+    {
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "repo": "AIDC-AI / Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "stars_today": 497,
+      "total_stars": 10220,
+      "total_forks": 1598,
+      "contributors": [
+        "puke3615",
+        "lltt90511",
+        "AuroraChloe",
+        "strict235"
+      ]
+    },
+    {
+      "url": "https://github.com/browserbase/skills",
+      "repo": "browserbase / skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars_today": 322,
+      "total_stars": 1877,
+      "total_forks": 125,
+      "contributors": [
+        "shrey150",
+        "claude",
+        "miguelg719",
+        "pkiv",
+        "shubh24"
+      ]
+    },
+    {
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "repo": "czlonkowski / n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "stars_today": 282,
+      "total_stars": 19602,
+      "total_forks": 3244,
+      "contributors": [
+        "czlonkowski",
+        "claude",
+        "kimbo128",
+        "thesved",
+        "naXa777"
+      ]
+    },
+    {
+      "url": "https://github.com/1jehuang/jcode",
+      "repo": "1jehuang / jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars_today": 591,
+      "total_stars": 3518,
+      "total_forks": 333,
+      "contributors": [
+        "1jehuang",
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/openwrt/openwrt",
+      "repo": "openwrt / openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars_today": 26,
+      "total_stars": 26662,
+      "total_forks": 12353,
+      "contributors": [
+        "juhosg",
+        "ffainelli",
+        "nbd168",
+        "hauke"
+      ]
+    }
+  ]
+}

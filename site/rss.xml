@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>GitHub Trends Daily</title>
+    <link>https://YOUR_USERNAME.github.io/github-trends-daily/</link>
+    <description>GitHub 每日趋势幽默点评</description>
+    <language>zh-CN</language>
+    
+    <item>
+        <title>今日 GitHub 热搜： ruflo 成最大赢家，还有 8 个陪跑选手</title>
+        <link>https://YOUR_USERNAME.github.io/github-trends-daily/posts/2026-05-04.html</link>
+        <description>GitHub Trending 2026-05-04 - 9 repos, +8333 stars</description>
+        <pubDate>2026-05-04T00:00:00Z</pubDate>
+        <guid>https://YOUR_USERNAME.github.io/github-trends-daily/posts/2026-05-04.html</guid>
+    </item>
+</channel>
+</rss>
