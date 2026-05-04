@@ -1,6 +1,6 @@
 {
   "date": "2026-05-04",
-  "fetched_at": "2026-05-04T06:09:30.607032+00:00",
+  "fetched_at": "2026-05-04T06:09:55.299781+00:00",
   "count": 9,
   "repos": [
     {
@@ -23,8 +23,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "stars_today": 3313,
-      "total_stars": 65722,
-      "total_forks": 12737,
+      "total_stars": 65723,
+      "total_forks": 12738,
       "contributors": [
         "EdwardoSunny",
         "luohy15",
