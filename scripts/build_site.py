@@ -4,6 +4,7 @@
 """
 
 import json
+import os
 import shutil
 import sys
 from datetime import datetime
@@ -12,6 +13,17 @@ from pathlib import Path
 SITE_DIR = Path("site")
 DATA_DIR = Path("data")
 POSTS_DIR = SITE_DIR / "posts"
+BASE_PATH = os.getenv("PAGES_BASE_PATH", "/github-trends-daily").rstrip("/")
+DEFAULT_SITE_URL = "https://cowbook.github.io/github-trends-daily/"
+SITE_URL = os.getenv("SITE_URL", DEFAULT_SITE_URL).rstrip("/") + "/"
+
+
+def _with_base(path: str) -> str:
+    """将站内路径拼接到 GitHub Pages project site base path 下"""
+    path = path.lstrip("/")
+    if BASE_PATH:
+        return f"{BASE_PATH}/{path}" if path else f"{BASE_PATH}/"
+    return f"/{path}" if path else "/"
 
 
 def build_html_page(title: str, body_html: str, extra_head: str = "") -> str:
@@ -23,18 +35,18 @@ def build_html_page(title: str, body_html: str, extra_head: str = "") -> str:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{title} | GitHub Trends Daily</title>
     <meta name="description" content="GitHub 每日趋势幽默点评 - 用段子的方式看懂开源世界">
-    <link rel="stylesheet" href="/css/style.css">
-    <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="GitHub Trends Daily">
+    <link rel="stylesheet" href="{_with_base('css/style.css')}">
+    <link rel="alternate" type="application/rss+xml" href="{_with_base('rss.xml')}" title="GitHub Trends Daily">
     {extra_head}
 </head>
 <body>
     <header class="site-header">
         <div class="container">
-            <a href="/" class="logo">🔥 GitHub Trends Daily</a>
+            <a href="{_with_base('')}" class="logo">🔥 GitHub Trends Daily</a>
             <nav>
-                <a href="/">首页</a>
-                <a href="/archive.html">归档</a>
-                <a href="/about.html">关于</a>
+                <a href="{_with_base('')}">首页</a>
+                <a href="{_with_base('archive.html')}">归档</a>
+                <a href="{_with_base('about.html')}">关于</a>
                 <a href="https://github.com/cowbook/github-trends-daily" target="_blank">GitHub</a>
             </nav>
         </div>
@@ -157,10 +169,11 @@ def build_index() -> None:
 
     post_cards = ""
     for meta in posts_meta[:15]:  # 首页显示最近 15 篇
+        post_url = _with_base(f"posts/{meta['slug']}.html")
         post_cards += f"""
         <article class="post-card">
             <time datetime="{meta['date']}">{meta['date']}</time>
-            <h2><a href="/posts/{meta['slug']}.html">{meta['title']}</a></h2>
+            <h2><a href="{post_url}">{meta['title']}</a></h2>
             <p class="post-meta">📦 {meta['repo_count']} 个上榜项目 · ⭐ {meta['total_stars_today']:,} 今日新增</p>
         </article>"""
 
@@ -190,10 +203,11 @@ def build_archive() -> None:
 
     post_items = ""
     for meta in posts_meta:
+        post_url = _with_base(f"posts/{meta['slug']}.html")
         post_items += f"""
         <li>
             <time>{meta['date']}</time>
-            <a href="/posts/{meta['slug']}.html">{meta['title']}</a>
+            <a href="{post_url}">{meta['title']}</a>
             <span class="archive-stats">({meta['repo_count']} repos, +{meta['total_stars_today']:,} ⭐)</span>
         </li>"""
 
@@ -292,20 +306,21 @@ def build_rss() -> None:
 
     items = ""
     for meta in posts_meta[:20]:
+        post_link = f"{SITE_URL}posts/{meta['slug']}.html"
         items += f"""
     <item>
         <title>{meta.get('title', meta['date'])}</title>
-        <link>https://YOUR_USERNAME.github.io/github-trends-daily/posts/{meta['date']}.html</link>
+        <link>{post_link}</link>
         <description>GitHub Trending {meta['date']} - {meta.get('repo_count', 0)} repos, +{meta.get('total_stars_today', 0)} stars</description>
         <pubDate>{meta['date']}T00:00:00Z</pubDate>
-        <guid>https://YOUR_USERNAME.github.io/github-trends-daily/posts/{meta['date']}.html</guid>
+        <guid>{post_link}</guid>
     </item>"""
 
     rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
     <title>GitHub Trends Daily</title>
-    <link>https://YOUR_USERNAME.github.io/github-trends-daily/</link>
+    <link>{SITE_URL}</link>
     <description>GitHub 每日趋势幽默点评</description>
     <language>zh-CN</language>
     {items}
