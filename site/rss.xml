@@ -2,16 +2,51 @@
 <rss version="2.0">
 <channel>
     <title>GitHub Trends Daily</title>
-    <link>https://YOUR_USERNAME.github.io/github-trends-daily/</link>
+    <link>https://cowbook.github.io/github-trends-daily/</link>
     <description>GitHub 每日趋势幽默点评</description>
     <language>zh-CN</language>
     
     <item>
+        <title>GitHub 2026-05-09 趋势榜： financial-services 一骑绝尘，后面 11 个项目表示不服</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-05-09.html</link>
+        <description>GitHub Trending 2026-05-09 - 12 repos, +12970 stars</description>
+        <pubDate>2026-05-09T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-05-09.html</guid>
+    </item>
+    <item>
+        <title>【GitHub 日报】2026-05-08：今天  financial-services 最火，程序员的品味终于正常了？</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-05-08.html</link>
+        <description>GitHub Trending 2026-05-08 - 12 repos, +14637 stars</description>
+        <pubDate>2026-05-08T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-05-08.html</guid>
+    </item>
+    <item>
+        <title>今日 GitHub 热搜： DeepSeek-TUI 成最大赢家，还有 14 个陪跑选手</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-05-07.html</link>
+        <description>GitHub Trending 2026-05-07 - 15 repos, +14738 stars</description>
+        <pubDate>2026-05-07T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-05-07.html</guid>
+    </item>
+    <item>
+        <title>GitHub Trending 2026-05-06： DeepSeek-TUI 领跑，15 个项目杀入榜单</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-05-06.html</link>
+        <description>GitHub Trending 2026-05-06 - 15 repos, +12947 stars</description>
+        <pubDate>2026-05-06T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-05-06.html</guid>
+    </item>
+    <item>
+        <title>GitHub 2026-05-05 趋势榜： ruflo 一骑绝尘，后面 14 个项目表示不服</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-05-05.html</link>
+        <description>GitHub Trending 2026-05-05 - 15 repos, +11263 stars</description>
+        <pubDate>2026-05-05T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-05-05.html</guid>
+    </item>
+    <item>
         <title>今日 GitHub 热搜： ruflo 成最大赢家，还有 8 个陪跑选手</title>
-        <link>https://YOUR_USERNAME.github.io/github-trends-daily/posts/2026-05-04.html</link>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-05-04.html</link>
         <description>GitHub Trending 2026-05-04 - 9 repos, +8333 stars</description>
         <pubDate>2026-05-04T00:00:00Z</pubDate>
-        <guid>https://YOUR_USERNAME.github.io/github-trends-daily/posts/2026-05-04.html</guid>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-05-04.html</guid>
     </item>
 </channel>
 </rss>
