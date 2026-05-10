@@ -1,6 +1,6 @@
 {
   "date": "2026-05-10",
-  "fetched_at": "2026-05-10T02:31:58.578340+00:00",
+  "fetched_at": "2026-05-10T03:24:04.497283+00:00",
   "count": 13,
   "repos": [
     {
@@ -9,8 +9,8 @@
       "description": "",
       "language": "Python",
       "stars_today": 3281,
-      "total_stars": 17492,
-      "total_forks": 2221,
+      "total_stars": 17544,
+      "total_forks": 2232,
       "contributors": [
         "cxyback",
         "mihilmy",
@@ -24,8 +24,8 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "stars_today": 552,
-      "total_stars": 31455,
-      "total_forks": 3127,
+      "total_stars": 31488,
+      "total_forks": 3129,
       "contributors": [
         "ulivz",
         "ycjcl868",
@@ -40,8 +40,8 @@
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
       "stars_today": 533,
-      "total_stars": 3481,
-      "total_forks": 342,
+      "total_stars": 3530,
+      "total_forks": 348,
       "contributors": [
         "rohitg00",
         "JasonLandbridge",
@@ -54,8 +54,8 @@
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
       "stars_today": 1197,
-      "total_stars": 45732,
-      "total_forks": 5536,
+      "total_stars": 45766,
+      "total_forks": 5539,
       "contributors": [
         "jjyaoao",
         "HeteroCat",
@@ -70,8 +70,8 @@
       "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
       "language": "JavaScript",
       "stars_today": 294,
-      "total_stars": 8568,
-      "total_forks": 864,
+      "total_stars": 8595,
+      "total_forks": 866,
       "contributors": [
         "sanbuphy",
         "GeoDaoyu",
@@ -86,8 +86,8 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "stars_today": 144,
-      "total_stars": 13813,
-      "total_forks": 1370,
+      "total_stars": 13821,
+      "total_forks": 1371,
       "contributors": [
         "ramnique",
         "arkml",
@@ -101,8 +101,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "stars_today": 107,
-      "total_stars": 38849,
-      "total_forks": 2457,
+      "total_stars": 38867,
+      "total_forks": 2459,
       "contributors": [
         "OrKoN",
         "dependabot",
@@ -116,8 +116,8 @@
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "language": "Go",
       "stars_today": 597,
-      "total_stars": 2573,
-      "total_forks": 273,
+      "total_stars": 2587,
+      "total_forks": 278,
       "contributors": [
         "masterking32",
         "abolix",
@@ -132,8 +132,8 @@
       "description": "3D Gaussian Splat Editor",
       "language": "TypeScript",
       "stars_today": 514,
-      "total_stars": 6343,
-      "total_forks": 732,
+      "total_stars": 6359,
+      "total_forks": 735,
       "contributors": [
         "slimbuck",
         "willeastcott",
@@ -148,8 +148,8 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "stars_today": 160,
-      "total_stars": 36498,
-      "total_forks": 4486,
+      "total_stars": 36547,
+      "total_forks": 4494,
       "contributors": [
         "Lordog",
         "cooelf",
@@ -164,8 +164,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "stars_today": 3009,
-      "total_stars": 37450,
-      "total_forks": 4182,
+      "total_stars": 37493,
+      "total_forks": 4185,
       "contributors": [
         "addyosmani",
         "federicobartoli",
@@ -180,8 +180,8 @@
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
       "stars_today": 1031,
-      "total_stars": 6552,
-      "total_forks": 1175,
+      "total_stars": 6599,
+      "total_forks": 1182,
       "contributors": [
         "claude",
         "cursoragent",
@@ -195,8 +195,8 @@
       "description": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
       "language": "Jupyter Notebook",
       "stars_today": 90,
-      "total_stars": 822,
-      "total_forks": 231,
+      "total_stars": 835,
+      "total_forks": 234,
       "contributors": [
         "jasperan",
         "WSPluta",
