@@ -7,6 +7,13 @@
     <language>zh-CN</language>
     
     <item>
+        <title>今日 GitHub 热搜： container 成最大赢家，还有 18 个陪跑选手</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-06-12.html</link>
+        <description>GitHub Trending 2026-06-12 - 19 repos, +14324 stars</description>
+        <pubDate>2026-06-12T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-06-12.html</guid>
+    </item>
+    <item>
         <title>GitHub 2026-06-11 趋势榜： agent-skills 一骑绝尘，后面 16 个项目表示不服</title>
         <link>https://cowbook.github.io/github-trends-daily/posts/2026-06-11.html</link>
         <description>GitHub Trending 2026-06-11 - 17 repos, +12316 stars</description>
@@ -138,13 +145,6 @@
         <description>GitHub Trending 2026-05-24 - 16 repos, +16089 stars</description>
         <pubDate>2026-05-24T00:00:00Z</pubDate>
         <guid>https://cowbook.github.io/github-trends-daily/posts/2026-05-24.html</guid>
-    </item>
-    <item>
-        <title>今日 GitHub 热搜： claude-plugins-official 成最大赢家，还有 13 个陪跑选手</title>
-        <link>https://cowbook.github.io/github-trends-daily/posts/2026-05-23.html</link>
-        <description>GitHub Trending 2026-05-23 - 14 repos, +13044 stars</description>
-        <pubDate>2026-05-23T00:00:00Z</pubDate>
-        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-05-23.html</guid>
     </item>
 </channel>
 </rss>
