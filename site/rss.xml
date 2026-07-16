@@ -7,6 +7,13 @@
     <language>zh-CN</language>
     
     <item>
+        <title>今日 GitHub 热搜： OpenCut 成最大赢家，还有 12 个陪跑选手</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-07-16.html</link>
+        <description>GitHub Trending 2026-07-16 - 13 repos, +10326 stars</description>
+        <pubDate>2026-07-16T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-07-16.html</guid>
+    </item>
+    <item>
         <title>GitHub Trending 2026-07-15： chinese-independent-developer 领跑，16 个项目杀入榜单</title>
         <link>https://cowbook.github.io/github-trends-daily/posts/2026-07-15.html</link>
         <description>GitHub Trending 2026-07-15 - 16 repos, +15705 stars</description>
@@ -138,13 +145,6 @@
         <description>GitHub Trending 2026-06-27 - 17 repos, +13414 stars</description>
         <pubDate>2026-06-27T00:00:00Z</pubDate>
         <guid>https://cowbook.github.io/github-trends-daily/posts/2026-06-27.html</guid>
-    </item>
-    <item>
-        <title>【GitHub 日报】2026-06-26：今天  design.md 最火，程序员的品味终于正常了？</title>
-        <link>https://cowbook.github.io/github-trends-daily/posts/2026-06-26.html</link>
-        <description>GitHub Trending 2026-06-26 - 16 repos, +11130 stars</description>
-        <pubDate>2026-06-26T00:00:00Z</pubDate>
-        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-06-26.html</guid>
     </item>
 </channel>
 </rss>
