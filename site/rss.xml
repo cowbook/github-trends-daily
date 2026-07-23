@@ -7,6 +7,13 @@
     <language>zh-CN</language>
     
     <item>
+        <title>今日 GitHub 热搜： worldmonitor 成最大赢家，还有 18 个陪跑选手</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-07-23.html</link>
+        <description>GitHub Trending 2026-07-23 - 19 repos, +15140 stars</description>
+        <pubDate>2026-07-23T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-07-23.html</guid>
+    </item>
+    <item>
         <title>GitHub 2026-07-22 趋势榜： worldmonitor 一骑绝尘，后面 20 个项目表示不服</title>
         <link>https://cowbook.github.io/github-trends-daily/posts/2026-07-22.html</link>
         <description>GitHub Trending 2026-07-22 - 21 repos, +19256 stars</description>
@@ -138,13 +145,6 @@
         <description>GitHub Trending 2026-07-04 - 20 repos, +13954 stars</description>
         <pubDate>2026-07-04T00:00:00Z</pubDate>
         <guid>https://cowbook.github.io/github-trends-daily/posts/2026-07-04.html</guid>
-    </item>
-    <item>
-        <title>GitHub Trending 2026-07-03： strix 领跑，17 个项目杀入榜单</title>
-        <link>https://cowbook.github.io/github-trends-daily/posts/2026-07-03.html</link>
-        <description>GitHub Trending 2026-07-03 - 17 repos, +11126 stars</description>
-        <pubDate>2026-07-03T00:00:00Z</pubDate>
-        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-07-03.html</guid>
     </item>
 </channel>
 </rss>
