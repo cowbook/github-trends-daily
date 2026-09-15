@@ -7,6 +7,13 @@
     <language>zh-CN</language>
     
     <item>
+        <title>今日 GitHub 热搜： colibri 成最大赢家，还有 19 个陪跑选手</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-09-15.html</link>
+        <description>GitHub Trending 2026-09-15 - 20 repos, +14147 stars</description>
+        <pubDate>2026-09-15T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-09-15.html</guid>
+    </item>
+    <item>
         <title>【GitHub 日报】2026-09-14：今天  colibri 最火，程序员的品味终于正常了？</title>
         <link>https://cowbook.github.io/github-trends-daily/posts/2026-09-14.html</link>
         <description>GitHub Trending 2026-09-14 - 19 repos, +12116 stars</description>
@@ -138,13 +145,6 @@
         <description>GitHub Trending 2026-08-27 - 16 repos, +13645 stars</description>
         <pubDate>2026-08-27T00:00:00Z</pubDate>
         <guid>https://cowbook.github.io/github-trends-daily/posts/2026-08-27.html</guid>
-    </item>
-    <item>
-        <title>GitHub 2026-08-26 趋势榜： awesome-gpt-image-2 一骑绝尘，后面 15 个项目表示不服</title>
-        <link>https://cowbook.github.io/github-trends-daily/posts/2026-08-26.html</link>
-        <description>GitHub Trending 2026-08-26 - 16 repos, +10620 stars</description>
-        <pubDate>2026-08-26T00:00:00Z</pubDate>
-        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-08-26.html</guid>
     </item>
 </channel>
 </rss>
