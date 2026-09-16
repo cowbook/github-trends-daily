@@ -7,6 +7,13 @@
     <language>zh-CN</language>
     
     <item>
+        <title>今日 GitHub 热搜： open-code-review 成最大赢家，还有 13 个陪跑选手</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-09-16.html</link>
+        <description>GitHub Trending 2026-09-16 - 14 repos, +10705 stars</description>
+        <pubDate>2026-09-16T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-09-16.html</guid>
+    </item>
+    <item>
         <title>今日 GitHub 热搜： colibri 成最大赢家，还有 19 个陪跑选手</title>
         <link>https://cowbook.github.io/github-trends-daily/posts/2026-09-15.html</link>
         <description>GitHub Trending 2026-09-15 - 20 repos, +14147 stars</description>
@@ -138,13 +145,6 @@
         <description>GitHub Trending 2026-08-28 - 19 repos, +15238 stars</description>
         <pubDate>2026-08-28T00:00:00Z</pubDate>
         <guid>https://cowbook.github.io/github-trends-daily/posts/2026-08-28.html</guid>
-    </item>
-    <item>
-        <title>GitHub Trending 2026-08-27： archify 领跑，16 个项目杀入榜单</title>
-        <link>https://cowbook.github.io/github-trends-daily/posts/2026-08-27.html</link>
-        <description>GitHub Trending 2026-08-27 - 16 repos, +13645 stars</description>
-        <pubDate>2026-08-27T00:00:00Z</pubDate>
-        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-08-27.html</guid>
     </item>
 </channel>
 </rss>
