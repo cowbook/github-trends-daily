@@ -7,6 +7,13 @@
     <language>zh-CN</language>
     
     <item>
+        <title>今日 GitHub 热搜： open-code-review 成最大赢家，还有 20 个陪跑选手</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-09-17.html</link>
+        <description>GitHub Trending 2026-09-17 - 21 repos, +15217 stars</description>
+        <pubDate>2026-09-17T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-09-17.html</guid>
+    </item>
+    <item>
         <title>今日 GitHub 热搜： open-code-review 成最大赢家，还有 13 个陪跑选手</title>
         <link>https://cowbook.github.io/github-trends-daily/posts/2026-09-16.html</link>
         <description>GitHub Trending 2026-09-16 - 14 repos, +10705 stars</description>
@@ -138,13 +145,6 @@
         <description>GitHub Trending 2026-08-29 - 20 repos, +18104 stars</description>
         <pubDate>2026-08-29T00:00:00Z</pubDate>
         <guid>https://cowbook.github.io/github-trends-daily/posts/2026-08-29.html</guid>
-    </item>
-    <item>
-        <title>GitHub Trending 2026-08-28： gods-eye-view 领跑，19 个项目杀入榜单</title>
-        <link>https://cowbook.github.io/github-trends-daily/posts/2026-08-28.html</link>
-        <description>GitHub Trending 2026-08-28 - 19 repos, +15238 stars</description>
-        <pubDate>2026-08-28T00:00:00Z</pubDate>
-        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-08-28.html</guid>
     </item>
 </channel>
 </rss>
