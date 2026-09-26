@@ -7,6 +7,13 @@
     <language>zh-CN</language>
     
     <item>
+        <title>今日 GitHub 热搜： paperclip 成最大赢家，还有 15 个陪跑选手</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-09-26.html</link>
+        <description>GitHub Trending 2026-09-26 - 16 repos, +9844 stars</description>
+        <pubDate>2026-09-26T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-09-26.html</guid>
+    </item>
+    <item>
         <title>【GitHub 日报】2026-09-25：今天  ai-engineering-from-scratch 最火，程序员的品味终于正常了？</title>
         <link>https://cowbook.github.io/github-trends-daily/posts/2026-09-25.html</link>
         <description>GitHub Trending 2026-09-25 - 14 repos, +7582 stars</description>
@@ -138,13 +145,6 @@
         <description>GitHub Trending 2026-09-07 - 18 repos, +10366 stars</description>
         <pubDate>2026-09-07T00:00:00Z</pubDate>
         <guid>https://cowbook.github.io/github-trends-daily/posts/2026-09-07.html</guid>
-    </item>
-    <item>
-        <title>【GitHub 日报】2026-09-06：今天  skills 最火，程序员的品味终于正常了？</title>
-        <link>https://cowbook.github.io/github-trends-daily/posts/2026-09-06.html</link>
-        <description>GitHub Trending 2026-09-06 - 16 repos, +12272 stars</description>
-        <pubDate>2026-09-06T00:00:00Z</pubDate>
-        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-09-06.html</guid>
     </item>
 </channel>
 </rss>
