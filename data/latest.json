@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-10",
-  "fetched_at": "2026-10-10T00:38:17.159793+00:00",
-  "count": 11,
+  "date": "2026-10-11",
+  "fetched_at": "2026-10-11T00:41:51.696721+00:00",
+  "count": 13,
   "repos": [
     {
       "url": "https://github.com/morluto/rea",
       "repo": "morluto / rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": 14927,
-      "total_stars": 45966,
-      "total_forks": 7324,
+      "stars_today": 25793,
+      "total_stars": 72530,
+      "total_forks": 15269,
       "contributors": [
         "morluto",
         "N0zoM1z0",
@@ -23,97 +23,14 @@
       "repo": "boykopovar / AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "stars_today": 5868,
-      "total_stars": 22332,
-      "total_forks": 1818,
+      "stars_today": 5805,
+      "total_stars": 26845,
+      "total_forks": 2258,
       "contributors": [
         "claude",
-        "boykopovar",
         "oneandonlydean",
-        "adriadam10"
-      ]
-    },
-    {
-      "url": "https://github.com/mattpocock/skills",
-      "repo": "mattpocock / skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_today": 1687,
-      "total_stars": 282679,
-      "total_forks": 23683,
-      "contributors": [
-        "mattpocock",
-        "claude",
-        "gabimoncha"
-      ]
-    },
-    {
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "repo": "cathrynlavery / diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_today": 1739,
-      "total_stars": 47856,
-      "total_forks": 3033,
-      "contributors": [
-        "cathrynlavery",
-        "parveen0029",
-        "claude",
-        "mvanhorn"
-      ]
-    },
-    {
-      "url": "https://github.com/alibaba/open-code-review",
-      "repo": "alibaba / open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "language": "Go",
-      "stars_today": 326,
-      "total_stars": 45205,
-      "total_forks": 3261,
-      "contributors": [
-        "lizhengfeng101",
-        "chethanuk",
-        "Qiyuanqiii"
-      ]
-    },
-    {
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "repo": "anthropics / knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_today": 709,
-      "total_stars": 28249,
-      "total_forks": 3243,
-      "contributors": [
-        "claude"
-      ]
-    },
-    {
-      "url": "https://github.com/BerriAI/litellm",
-      "repo": "BerriAI / litellm",
-      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "language": "Python",
-      "stars_today": 95,
-      "total_stars": 100,
-      "total_forks": 60659,
-      "contributors": [
-        "Sameerlite"
-      ]
-    },
-    {
-      "url": "https://github.com/addyosmani/agent-skills",
-      "repo": "addyosmani / agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_today": 436,
-      "total_stars": 103988,
-      "total_forks": 10868,
-      "contributors": [
-        "addyosmani",
-        "nucliweb",
-        "federicobartoli",
-        "claude",
-        "ayobamiseun"
+        "adriadam10",
+        "boykopovar"
       ]
     },
     {
@@ -121,9 +38,9 @@
       "repo": "storytold / artcraft",
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
-      "stars_today": 3752,
-      "total_stars": 11475,
-      "total_forks": 1735,
+      "stars_today": 3222,
+      "total_stars": 14499,
+      "total_forks": 2288,
       "contributors": [
         "echelon",
         "bflatastic",
@@ -132,31 +49,151 @@
       ]
     },
     {
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "repo": "Robbyant / lingbot-map",
-      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "language": "Python",
-      "stars_today": 110,
-      "total_stars": 17694,
-      "total_forks": 1951,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "repo": "cathrynlavery / diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_today": 1190,
+      "total_stars": 48950,
+      "total_forks": 3093,
       "contributors": [
-        "LinZhuoChen",
-        "justimyhxu",
+        "cathrynlavery",
+        "parveen0029",
+        "claude",
+        "mvanhorn"
+      ]
+    },
+    {
+      "url": "https://github.com/mksglu/context-mode",
+      "repo": "mksglu / context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_today": 178,
+      "total_stars": 26316,
+      "total_forks": 1892,
+      "contributors": [
+        "mksglu",
+        "claude",
+        "ipedro",
+        "ousamabenyounes"
+      ]
+    },
+    {
+      "url": "https://github.com/mattpocock/skills",
+      "repo": "mattpocock / skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": 1736,
+      "total_stars": 284493,
+      "total_forks": 23812,
+      "contributors": [
+        "mattpocock",
+        "claude",
+        "gabimoncha"
+      ]
+    },
+    {
+      "url": "https://github.com/flutter/flutter",
+      "repo": "flutter / flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars_today": 88,
+      "total_stars": 179519,
+      "total_forks": 33599,
+      "contributors": [
+        "abarth",
+        "Hixie"
+      ]
+    },
+    {
+      "url": "https://github.com/tensorflow/tensorflow",
+      "repo": "tensorflow / tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars_today": 26,
+      "total_stars": 200726,
+      "total_forks": 78964,
+      "contributors": [
+        "ezhulenev",
+        "akuegel",
+        "hawkinsp",
+        "mihaimaruseac"
+      ]
+    },
+    {
+      "url": "https://github.com/hugohe3/ppt-master",
+      "repo": "hugohe3 / ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "stars_today": 461,
+      "total_stars": 59443,
+      "total_forks": 4681,
+      "contributors": [
+        "hugohe3",
+        "claude",
+        "shenqili",
+        "WodenJay",
+        "kevindesuyo"
+      ]
+    },
+    {
+      "url": "https://github.com/pytorch/pytorch",
+      "repo": "pytorch / pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars_today": 84,
+      "total_stars": 104140,
+      "total_forks": 31955,
+      "contributors": [
+        "pytorchmergebot",
+        "malfet",
+        "ezyang",
+        "zou3519",
+        "cyyever"
+      ]
+    },
+    {
+      "url": "https://github.com/huggingface/transformers",
+      "repo": "huggingface / transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars_today": 96,
+      "total_stars": 167259,
+      "total_forks": 34797,
+      "contributors": [
+        "sgugger",
+        "ydshieh",
+        "thomwolf",
+        "LysandreJik",
+        "patrickvonplaten"
+      ]
+    },
+    {
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "repo": "anthropics / knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_today": 625,
+      "total_stars": 28820,
+      "total_forks": 3277,
+      "contributors": [
         "claude"
       ]
     },
     {
-      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-      "repo": "twostraws / SwiftUI-Agent-Skill",
-      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "repo": "multica-ai / andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "Unknown",
-      "stars_today": 65,
+      "stars_today": 278,
       "total_stars": 0,
       "total_forks": 0,
       "contributors": [
-        "twostraws",
-        "GLinnik21",
-        "Jeehut"
+        "forrestchang",
+        "claude",
+        "back1ply",
+        "herobrine19",
+        "szkocot"
       ]
     }
   ]
