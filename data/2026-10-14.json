@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-14",
+  "fetched_at": "2026-10-14T00:31:28.727341+00:00",
+  "count": 9,
+  "repos": [
+    {
+      "url": "https://github.com/morluto/rea",
+      "repo": "morluto / rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars_today": 54679,
+      "total_stars": 206912,
+      "total_forks": 50453,
+      "contributors": [
+        "morluto",
+        "N0zoM1z0",
+        "claude",
+        "rudycelekli"
+      ]
+    },
+    {
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "repo": "bilawalsidhu / gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars_today": 1961,
+      "total_stars": 55372,
+      "total_forks": 10825,
+      "contributors": [
+        "samehkhamis",
+        "claude",
+        "asturksever",
+        "bilawalsidhu",
+        "manjunath22466"
+      ]
+    },
+    {
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "repo": "debpalash / VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_today": 1748,
+      "total_stars": 63241,
+      "total_forks": 7036,
+      "contributors": [
+        "debpalash",
+        "claude",
+        "velixio",
+        "kevin9327",
+        "jaketame"
+      ]
+    },
+    {
+      "url": "https://github.com/mksglu/context-mode",
+      "repo": "mksglu / context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars_today": 969,
+      "total_stars": 28229,
+      "total_forks": 1995,
+      "contributors": [
+        "mksglu",
+        "claude",
+        "ipedro",
+        "ousamabenyounes"
+      ]
+    },
+    {
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "repo": "cathrynlavery / diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_today": 1815,
+      "total_stars": 54105,
+      "total_forks": 3432,
+      "contributors": [
+        "cathrynlavery",
+        "parveen0029",
+        "claude",
+        "rudycelekli"
+      ]
+    },
+    {
+      "url": "https://github.com/vercel-labs/skills",
+      "repo": "vercel-labs / skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars_today": 190,
+      "total_stars": 34495,
+      "total_forks": 2952,
+      "contributors": [
+        "quuu",
+        "huozhi",
+        "claude",
+        "jonathanhefner"
+      ]
+    },
+    {
+      "url": "https://github.com/lyogavin/airllm",
+      "repo": "lyogavin / airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_today": 1001,
+      "total_stars": 38317,
+      "total_forks": 3917,
+      "contributors": [
+        "lyogavin",
+        "cursoragent",
+        "eltociear",
+        "NavodPeiris",
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/storytold/artcraft",
+      "repo": "storytold / artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars_today": 4081,
+      "total_stars": 25640,
+      "total_forks": 4025,
+      "contributors": [
+        "echelon",
+        "bflatastic",
+        "ArEnSc",
+        "wilwong"
+      ]
+    },
+    {
+      "url": "https://github.com/xtool-org/xtool",
+      "repo": "xtool-org / xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars_today": 1198,
+      "total_stars": 9348,
+      "total_forks": 397,
+      "contributors": [
+        "kabiroberai",
+        "reklis",
+        "erikbdev",
+        "mvanhorn",
+        "pawlowskialex"
+      ]
+    }
+  ]
+}
