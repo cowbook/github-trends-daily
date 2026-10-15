@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-14",
-  "fetched_at": "2026-10-14T00:31:28.727341+00:00",
-  "count": 9,
+  "date": "2026-10-15",
+  "fetched_at": "2026-10-15T00:31:53.562154+00:00",
+  "count": 12,
   "repos": [
     {
       "url": "https://github.com/morluto/rea",
       "repo": "morluto / rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_today": 54679,
-      "total_stars": 206912,
-      "total_forks": 50453,
+      "stars_today": 41034,
+      "total_stars": 241622,
+      "total_forks": 60142,
       "contributors": [
         "morluto",
         "N0zoM1z0",
@@ -19,29 +19,13 @@
       ]
     },
     {
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "repo": "bilawalsidhu / gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "stars_today": 1961,
-      "total_stars": 55372,
-      "total_forks": 10825,
-      "contributors": [
-        "samehkhamis",
-        "claude",
-        "asturksever",
-        "bilawalsidhu",
-        "manjunath22466"
-      ]
-    },
-    {
       "url": "https://github.com/debpalash/VoiceStudio",
       "repo": "debpalash / VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_today": 1748,
-      "total_stars": 63241,
-      "total_forks": 7036,
+      "stars_today": 3538,
+      "total_stars": 66314,
+      "total_forks": 7314,
       "contributors": [
         "debpalash",
         "claude",
@@ -55,9 +39,9 @@
       "repo": "mksglu / context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars_today": 969,
-      "total_stars": 28229,
-      "total_forks": 1995,
+      "stars_today": 947,
+      "total_stars": 29113,
+      "total_forks": 2044,
       "contributors": [
         "mksglu",
         "claude",
@@ -66,64 +50,94 @@
       ]
     },
     {
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "repo": "cathrynlavery / diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_today": 1815,
-      "total_stars": 54105,
-      "total_forks": 3432,
+      "url": "https://github.com/nvm-sh/nvm",
+      "repo": "nvm-sh / nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "stars_today": 52,
+      "total_stars": 95451,
+      "total_forks": 10517,
       "contributors": [
-        "cathrynlavery",
-        "parveen0029",
-        "claude",
-        "rudycelekli"
+        "ljharb",
+        "PeterDaveHello",
+        "creationix",
+        "koenpunt",
+        "lukechilds"
       ]
     },
     {
-      "url": "https://github.com/vercel-labs/skills",
-      "repo": "vercel-labs / skills",
-      "description": "The open agent skills tool - npx skills",
-      "language": "TypeScript",
-      "stars_today": 190,
-      "total_stars": 34495,
-      "total_forks": 2952,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "repo": "K-Dense-AI / scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars_today": 163,
+      "total_stars": 49321,
+      "total_forks": 4420,
       "contributors": [
-        "quuu",
-        "huozhi",
-        "claude",
-        "jonathanhefner"
-      ]
-    },
-    {
-      "url": "https://github.com/lyogavin/airllm",
-      "repo": "lyogavin / airllm",
-      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "stars_today": 1001,
-      "total_stars": 38317,
-      "total_forks": 3917,
-      "contributors": [
-        "lyogavin",
+        "timothykassis",
         "cursoragent",
-        "eltociear",
-        "NavodPeiris",
+        "borealBytes",
         "claude"
       ]
     },
     {
-      "url": "https://github.com/storytold/artcraft",
-      "repo": "storytold / artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "stars_today": 4081,
-      "total_stars": 25640,
-      "total_forks": 4025,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "repo": "HKUDS / CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars_today": 103,
+      "total_stars": 52481,
+      "total_forks": 4773,
       "contributors": [
-        "echelon",
-        "bflatastic",
-        "ArEnSc",
-        "wilwong"
+        "claude",
+        "AiMiDi",
+        "omerarslan0",
+        "hito0512"
+      ]
+    },
+    {
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "repo": "ifixai-ai / iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "language": "Python",
+      "stars_today": 2109,
+      "total_stars": 27390,
+      "total_forks": 1503,
+      "contributors": [
+        "rudycelekli",
+        "Sebabaian"
+      ]
+    },
+    {
+      "url": "https://github.com/vxcontrol/pentagi",
+      "repo": "vxcontrol / pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars_today": 1025,
+      "total_stars": 29444,
+      "total_forks": 4424,
+      "contributors": [
+        "sirozha",
+        "claude",
+        "asdek",
+        "mason5052",
+        "cursoragent"
+      ]
+    },
+    {
+      "url": "https://github.com/rust-lang/rust",
+      "repo": "rust-lang / rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars_today": 207,
+      "total_stars": 120022,
+      "total_forks": 18701,
+      "contributors": [
+        "bors",
+        "matthiaskrgr",
+        "RalfJung",
+        "GuillaumeGomez",
+        "matklad"
       ]
     },
     {
@@ -131,15 +145,46 @@
       "repo": "xtool-org / xtool",
       "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
       "language": "Swift",
-      "stars_today": 1198,
-      "total_stars": 9348,
-      "total_forks": 397,
+      "stars_today": 1502,
+      "total_stars": 10796,
+      "total_forks": 487,
       "contributors": [
         "kabiroberai",
         "reklis",
         "erikbdev",
         "mvanhorn",
         "pawlowskialex"
+      ]
+    },
+    {
+      "url": "https://github.com/ntdevlabs/tiny11builder",
+      "repo": "ntdevlabs / tiny11builder",
+      "description": "WinUI app for building smaller, customized Windows 11 images.",
+      "language": "C#",
+      "stars_today": 139,
+      "total_stars": 20213,
+      "total_forks": 1555,
+      "contributors": [
+        "ntdevlabs",
+        "Miiraak",
+        "szepeviktor",
+        "eugenesan"
+      ]
+    },
+    {
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "repo": "NationalSecurityAgency / ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars_today": 1008,
+      "total_stars": 87486,
+      "total_forks": 9767,
+      "contributors": [
+        "ryanmkurtz",
+        "ghidra1",
+        "dragonmacher",
+        "nsadeveloper789",
+        "caheckman"
       ]
     }
   ]
