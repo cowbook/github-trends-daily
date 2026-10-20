@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-20",
+  "fetched_at": "2026-10-20T00:33:02.335591+00:00",
+  "count": 12,
+  "repos": [
+    {
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repo": "MadsLorentzen / ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "stars_today": 3856,
+      "total_stars": 57223,
+      "total_forks": 18189,
+      "contributors": [
+        "claude",
+        "MadsLorentzen",
+        "ayobamiseun",
+        "oscarbol09",
+        "rudycelekli"
+      ]
+    },
+    {
+      "url": "https://github.com/anomalyco/opencode",
+      "repo": "anomalyco / opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars_today": 1311,
+      "total_stars": 217797,
+      "total_forks": 29110,
+      "contributors": [
+        "thdxr",
+        "adamdotdevin",
+        "kitlangton"
+      ]
+    },
+    {
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "repo": "akitaonrails / ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_today": 666,
+      "total_stars": 11338,
+      "total_forks": 803,
+      "contributors": [
+        "akitaonrails",
+        "claude",
+        "viniciusdsandrade",
+        "djalmajr"
+      ]
+    },
+    {
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "repo": "Comfy-Org / ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "stars_today": 1011,
+      "total_stars": 139712,
+      "total_forks": 16582,
+      "contributors": [
+        "comfyanonymous",
+        "bigcat88",
+        "pythongosssss",
+        "rattus128"
+      ]
+    },
+    {
+      "url": "https://github.com/ruvnet/ruflo",
+      "repo": "ruvnet / ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars_today": 564,
+      "total_stars": 77179,
+      "total_forks": 9103,
+      "contributors": [
+        "ruvnet",
+        "claude",
+        "rudycelekli"
+      ]
+    },
+    {
+      "url": "https://github.com/stablyai/orca",
+      "repo": "stablyai / orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars_today": 1590,
+      "total_stars": 98265,
+      "total_forks": 6266,
+      "contributors": [
+        "nwparker",
+        "brennanb2025",
+        "AmethystLiang"
+      ]
+    },
+    {
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "repo": "headroomlabs-ai / headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_today": 310,
+      "total_stars": 76239,
+      "total_forks": 5924,
+      "contributors": [
+        "chopratejas",
+        "JerrettDavis",
+        "claude",
+        "gglucass"
+      ]
+    },
+    {
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "repo": "withmarbleapp / os-taxonomy",
+      "description": "",
+      "language": "JavaScript",
+      "stars_today": 284,
+      "total_stars": 6116,
+      "total_forks": 1001,
+      "contributors": [
+        "lauramionel",
+        "guillaumeboniface"
+      ]
+    },
+    {
+      "url": "https://github.com/Kruk2/jasna",
+      "repo": "Kruk2 / jasna",
+      "description": "Video restoration tool",
+      "language": "Python",
+      "stars_today": 498,
+      "total_stars": 2884,
+      "total_forks": 211,
+      "contributors": [
+        "Kruk2",
+        "suphamster",
+        "claude",
+        "helkaluin",
+        "ironicgitposting"
+      ]
+    },
+    {
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "repo": "HKUDS / CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars_today": 606,
+      "total_stars": 55231,
+      "total_forks": 4986,
+      "contributors": [
+        "claude",
+        "AiMiDi",
+        "omerarslan0",
+        "hito0512"
+      ]
+    },
+    {
+      "url": "https://github.com/anthropics/claude-code",
+      "repo": "anthropics / claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars_today": 167,
+      "total_stars": 152646,
+      "total_forks": 27138,
+      "contributors": [
+        "poteat",
+        "claude",
+        "bcherny"
+      ]
+    },
+    {
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "repo": "shiyu-coder / Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": 363,
+      "total_stars": 41656,
+      "total_forks": 6923,
+      "contributors": [
+        "Luciferbobo",
+        "AnMakc",
+        "randyy179"
+      ]
+    }
+  ]
+}
