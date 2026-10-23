@@ -1,63 +1,34 @@
 {
-  "date": "2026-10-22",
-  "fetched_at": "2026-10-22T00:32:25.764202+00:00",
-  "count": 12,
+  "date": "2026-10-23",
+  "fetched_at": "2026-10-23T00:33:41.563773+00:00",
+  "count": 9,
   "repos": [
     {
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "repo": "cloudflare / security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars_today": 2012,
-      "total_stars": 36457,
-      "total_forks": 2277,
+      "url": "https://github.com/php/php-src",
+      "repo": "php / php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars_today": 287,
+      "total_stars": 41150,
+      "total_forks": 8309,
       "contributors": [
-        "CooperSheroy"
+        "dstogov",
+        "nikic",
+        "weltling",
+        "cmb69",
+        "iliaal"
       ]
     },
     {
-      "url": "https://github.com/vllm-project/vllm",
-      "repo": "vllm-project / vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "repo": "anthropics / knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": 441,
-      "total_stars": 94862,
-      "total_forks": 23740,
+      "stars_today": 303,
+      "total_stars": 31587,
+      "total_forks": 3531,
       "contributors": [
-        "DarkLight1337",
-        "claude",
-        "mgoin",
-        "WoosukKwon",
-        "hmellor"
-      ]
-    },
-    {
-      "url": "https://github.com/stablyai/orca",
-      "repo": "stablyai / orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "stars_today": 1541,
-      "total_stars": 101235,
-      "total_forks": 6401,
-      "contributors": [
-        "nwparker",
-        "brennanb2025",
-        "AmethystLiang"
-      ]
-    },
-    {
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "repo": "headroomlabs-ai / headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_today": 474,
-      "total_stars": 77251,
-      "total_forks": 5990,
-      "contributors": [
-        "chopratejas",
-        "JerrettDavis",
-        "claude",
-        "gglucass"
+        "claude"
       ]
     },
     {
@@ -65,9 +36,9 @@
       "repo": "DietrichGebert / ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_today": 2079,
-      "total_stars": 171616,
-      "total_forks": 9341,
+      "stars_today": 1948,
+      "total_stars": 173455,
+      "total_forks": 9436,
       "contributors": [
         "DietrichGebert",
         "claude",
@@ -77,18 +48,30 @@
       ]
     },
     {
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "repo": "Comfy-Org / ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "language": "Python",
-      "stars_today": 939,
-      "total_stars": 141509,
-      "total_forks": 16724,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "repo": "cloudflare / security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_today": 2979,
+      "total_stars": 39558,
+      "total_forks": 2464,
       "contributors": [
-        "comfyanonymous",
-        "bigcat88",
-        "pythongosssss",
-        "rattus128"
+        "CooperSheroy"
+      ]
+    },
+    {
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "repo": "Graphify-Labs / graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars_today": 1408,
+      "total_stars": 132935,
+      "total_forks": 12721,
+      "contributors": [
+        "claude",
+        "safishamsi",
+        "ayushcodes10",
+        "rajatnagda45"
       ]
     },
     {
@@ -96,9 +79,9 @@
       "repo": "supabase / supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stars_today": 504,
-      "total_stars": 112994,
-      "total_forks": 16931,
+      "stars_today": 693,
+      "total_stars": 113481,
+      "total_forks": 16999,
       "contributors": [
         "joshenlim",
         "kiwicopple",
@@ -108,77 +91,46 @@
       ]
     },
     {
-      "url": "https://github.com/twentyhq/twenty",
-      "repo": "twentyhq / twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "language": "TypeScript",
-      "stars_today": 112,
-      "total_stars": 59159,
-      "total_forks": 9660,
-      "contributors": [
-        "charlesBochet",
-        "FelixMalfait",
-        "bosiraphael",
-        "Weiko"
-      ]
-    },
-    {
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "repo": "shiyu-coder / Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "url": "https://github.com/fastapi/fastapi",
+      "repo": "fastapi / fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
-      "stars_today": 575,
-      "total_stars": 42825,
-      "total_forks": 7069,
+      "stars_today": 101,
+      "total_stars": 103738,
+      "total_forks": 10087,
       "contributors": [
-        "Luciferbobo",
-        "AnMakc",
-        "randyy179"
+        "tiangolo",
+        "YuriiMotov"
       ]
     },
     {
-      "url": "https://github.com/strelov1/freehire",
-      "repo": "strelov1 / freehire",
-      "description": "freehire — the open-source search engine for job seekers",
-      "language": "Go",
-      "stars_today": 360,
-      "total_stars": 2380,
-      "total_forks": 244,
-      "contributors": [
-        "strelov1",
-        "claude",
-        "dependabot",
-        "gearsandcode"
-      ]
-    },
-    {
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "repo": "akitaonrails / ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_today": 286,
-      "total_stars": 12324,
-      "total_forks": 872,
-      "contributors": [
-        "akitaonrails",
-        "claude",
-        "viniciusdsandrade",
-        "djalmajr"
-      ]
-    },
-    {
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "repo": "Graphify-Labs / graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "repo": "luongnv89 / claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars_today": 1433,
-      "total_stars": 131628,
-      "total_forks": 12637,
+      "stars_today": 177,
+      "total_stars": 43193,
+      "total_forks": 5387,
       "contributors": [
+        "luongnv89",
         "claude",
-        "safishamsi",
-        "ayushcodes10",
-        "rajatnagda45"
+        "edocltd",
+        "toanalien"
+      ]
+    },
+    {
+      "url": "https://github.com/Meloong-Git/PCL",
+      "repo": "Meloong-Git / PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "stars_today": 119,
+      "total_stars": 8686,
+      "total_forks": 1200,
+      "contributors": [
+        "LTCatt",
+        "allMagicNB",
+        "RyogiMutsuki",
+        "Pigeon0v0"
       ]
     }
   ]

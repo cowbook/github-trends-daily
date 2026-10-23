@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-23",
+  "fetched_at": "2026-10-23T00:33:41.563773+00:00",
+  "count": 9,
+  "repos": [
+    {
+      "url": "https://github.com/php/php-src",
+      "repo": "php / php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars_today": 287,
+      "total_stars": 41150,
+      "total_forks": 8309,
+      "contributors": [
+        "dstogov",
+        "nikic",
+        "weltling",
+        "cmb69",
+        "iliaal"
+      ]
+    },
+    {
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "repo": "anthropics / knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars_today": 303,
+      "total_stars": 31587,
+      "total_forks": 3531,
+      "contributors": [
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "repo": "DietrichGebert / ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": 1948,
+      "total_stars": 173455,
+      "total_forks": 9436,
+      "contributors": [
+        "DietrichGebert",
+        "claude",
+        "ousamabenyounes",
+        "Lakshya77089",
+        "dhedhialy"
+      ]
+    },
+    {
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "repo": "cloudflare / security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_today": 2979,
+      "total_stars": 39558,
+      "total_forks": 2464,
+      "contributors": [
+        "CooperSheroy"
+      ]
+    },
+    {
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "repo": "Graphify-Labs / graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars_today": 1408,
+      "total_stars": 132935,
+      "total_forks": 12721,
+      "contributors": [
+        "claude",
+        "safishamsi",
+        "ayushcodes10",
+        "rajatnagda45"
+      ]
+    },
+    {
+      "url": "https://github.com/supabase/supabase",
+      "repo": "supabase / supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars_today": 693,
+      "total_stars": 113481,
+      "total_forks": 16999,
+      "contributors": [
+        "joshenlim",
+        "kiwicopple",
+        "MildTomato",
+        "saltcod",
+        "alaister"
+      ]
+    },
+    {
+      "url": "https://github.com/fastapi/fastapi",
+      "repo": "fastapi / fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "stars_today": 101,
+      "total_stars": 103738,
+      "total_forks": 10087,
+      "contributors": [
+        "tiangolo",
+        "YuriiMotov"
+      ]
+    },
+    {
+      "url": "https://github.com/luongnv89/claude-howto",
+      "repo": "luongnv89 / claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars_today": 177,
+      "total_stars": 43193,
+      "total_forks": 5387,
+      "contributors": [
+        "luongnv89",
+        "claude",
+        "edocltd",
+        "toanalien"
+      ]
+    },
+    {
+      "url": "https://github.com/Meloong-Git/PCL",
+      "repo": "Meloong-Git / PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "stars_today": 119,
+      "total_stars": 8686,
+      "total_forks": 1200,
+      "contributors": [
+        "LTCatt",
+        "allMagicNB",
+        "RyogiMutsuki",
+        "Pigeon0v0"
+      ]
+    }
+  ]
+}
