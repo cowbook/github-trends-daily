@@ -1,46 +1,18 @@
 {
-  "date": "2026-10-24",
-  "fetched_at": "2026-10-24T00:31:45.494859+00:00",
-  "count": 8,
+  "date": "2026-10-25",
+  "fetched_at": "2026-10-25T00:35:15.379435+00:00",
+  "count": 10,
   "repos": [
     {
       "url": "https://github.com/cloudflare/security-audit-skill",
       "repo": "cloudflare / security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": 2716,
-      "total_stars": 42126,
-      "total_forks": 2633,
+      "stars_today": 2264,
+      "total_stars": 44548,
+      "total_forks": 2768,
       "contributors": [
         "CooperSheroy"
-      ]
-    },
-    {
-      "url": "https://github.com/php/php-src",
-      "repo": "php / php-src",
-      "description": "The PHP Interpreter",
-      "language": "C",
-      "stars_today": 716,
-      "total_stars": 41559,
-      "total_forks": 8360,
-      "contributors": [
-        "dstogov",
-        "nikic",
-        "weltling",
-        "cmb69",
-        "iliaal"
-      ]
-    },
-    {
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "repo": "anthropics / knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars_today": 635,
-      "total_stars": 32204,
-      "total_forks": 3573,
-      "contributors": [
-        "claude"
       ]
     },
     {
@@ -48,9 +20,9 @@
       "repo": "NVIDIA / OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
-      "stars_today": 1119,
-      "total_stars": 18788,
-      "total_forks": 1885,
+      "stars_today": 896,
+      "total_stars": 19474,
+      "total_forks": 1930,
       "contributors": [
         "drew",
         "johntmyers",
@@ -60,64 +32,123 @@
       ]
     },
     {
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "repo": "Renhuai123 / ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "repo": "aws / agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars_today": 13,
+      "total_stars": 3126,
+      "total_forks": 397,
+      "contributors": [
+        "arnewouters",
+        "herosjourney",
+        "anasstahr",
+        "leon1418"
+      ]
+    },
+    {
+      "url": "https://github.com/Nutlope/hallmark",
+      "repo": "Nutlope / hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": 455,
+      "total_stars": 32134,
+      "total_forks": 1649,
+      "contributors": [
+        "Luffixos",
+        "Nutlope",
+        "claude",
+        "riccardogiorato",
+        "JaySmith502"
+      ]
+    },
+    {
+      "url": "https://github.com/luongnv89/claude-howto",
+      "repo": "luongnv89 / claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars_today": 392,
+      "total_stars": 44557,
+      "total_forks": 5492,
+      "contributors": [
+        "luongnv89",
+        "claude",
+        "edocltd",
+        "toanalien"
+      ]
+    },
+    {
+      "url": "https://github.com/pbakaus/impeccable",
+      "repo": "pbakaus / impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars_today": 619,
+      "total_stars": 86404,
+      "total_forks": 5154,
+      "contributors": [
+        "pbakaus",
+        "claude",
+        "abdulwahabone",
+        "cursoragent"
+      ]
+    },
+    {
+      "url": "https://github.com/pollen-robotics/microduck",
+      "repo": "pollen-robotics / microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "stars_today": 319,
+      "total_stars": 10991,
+      "total_forks": 1410,
+      "contributors": [
+        "apirrone",
+        "claude",
+        "Drenayaz",
+        "Nixxx19"
+      ]
+    },
+    {
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "repo": "google-gemini / gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "language": "TypeScript",
-      "stars_today": 546,
-      "total_stars": 6855,
-      "total_forks": 1407,
+      "stars_today": 44,
+      "total_stars": 108050,
+      "total_forks": 14807,
       "contributors": [
-        "Renhuai123",
-        "claude",
-        "dependabot",
-        "Renhuai"
+        "scidomino",
+        "jacob314",
+        "NTaylorMullen",
+        "abhipatel12",
+        "SandyTao520"
       ]
     },
     {
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "repo": "SnailSploit / Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "repo": "jbiaojerry / ebook-treasure-chest",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
       "language": "Python",
-      "stars_today": 226,
-      "total_stars": 8481,
-      "total_forks": 1100,
+      "stars_today": 227,
+      "total_stars": 22603,
+      "total_forks": 3190,
       "contributors": [
-        "SnailSploit",
-        "claude",
-        "halilkirazkaya",
-        "LvL23HT"
+        "jbiaojerry"
       ]
     },
     {
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "repo": "OpenBMB / VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "language": "Python",
-      "stars_today": 150,
-      "total_stars": 40253,
-      "total_forks": 4578,
+      "url": "https://github.com/makecindy/cindy",
+      "repo": "makecindy / cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars_today": 477,
+      "total_stars": 4096,
+      "total_forks": 585,
       "contributors": [
-        "a710128",
-        "bcsdcox",
-        "liuxin99",
-        "VoxInstruct"
-      ]
-    },
-    {
-      "url": "https://github.com/nodejs/node",
-      "repo": "nodejs / node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "language": "JavaScript",
-      "stars_today": 66,
-      "total_stars": 122860,
-      "total_forks": 39831,
-      "contributors": [
-        "Trott",
-        "ry",
-        "bnoordhuis",
-        "addaleax",
-        "isaacs"
+        "dashhuang",
+        "zqchris",
+        "MagicLizi",
+        "DavidShenXD",
+        "claude"
       ]
     }
   ]
