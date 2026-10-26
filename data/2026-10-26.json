@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-26",
+  "fetched_at": "2026-10-26T00:34:15.988000+00:00",
+  "count": 11,
+  "repos": [
+    {
+      "url": "https://github.com/makecindy/cindy",
+      "repo": "makecindy / cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars_today": 675,
+      "total_stars": 4854,
+      "total_forks": 663,
+      "contributors": [
+        "dashhuang",
+        "zqchris",
+        "MagicLizi",
+        "DavidShenXD",
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/Nutlope/hallmark",
+      "repo": "Nutlope / hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": 1317,
+      "total_stars": 33751,
+      "total_forks": 1763,
+      "contributors": [
+        "Luffixos",
+        "Nutlope",
+        "claude",
+        "riccardogiorato",
+        "JaySmith502"
+      ]
+    },
+    {
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "repo": "debpalash / VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_today": 1592,
+      "total_stars": 86791,
+      "total_forks": 9610,
+      "contributors": [
+        "debpalash",
+        "claude",
+        "velixio",
+        "kevin9327",
+        "jaketame"
+      ]
+    },
+    {
+      "url": "https://github.com/pbakaus/impeccable",
+      "repo": "pbakaus / impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars_today": 1092,
+      "total_stars": 87690,
+      "total_forks": 5243,
+      "contributors": [
+        "pbakaus",
+        "claude",
+        "abdulwahabone",
+        "cursoragent"
+      ]
+    },
+    {
+      "url": "https://github.com/pollen-robotics/microduck",
+      "repo": "pollen-robotics / microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "stars_today": 647,
+      "total_stars": 11628,
+      "total_forks": 1481,
+      "contributors": [
+        "apirrone",
+        "claude",
+        "Drenayaz",
+        "Nixxx19"
+      ]
+    },
+    {
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "repo": "TauricResearch / TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": 381,
+      "total_stars": 114595,
+      "total_forks": 22129,
+      "contributors": [
+        "EdwardoSunny",
+        "CadeYu",
+        "luohy15",
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "repo": "Renhuai123 / ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "stars_today": 199,
+      "total_stars": 7543,
+      "total_forks": 1543,
+      "contributors": [
+        "Renhuai123",
+        "claude",
+        "dependabot",
+        "Renhuai"
+      ]
+    },
+    {
+      "url": "https://github.com/JetBrains/thinkrail",
+      "repo": "JetBrains / thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars_today": 51,
+      "total_stars": 1726,
+      "total_forks": 102,
+      "contributors": [
+        "rsolmano",
+        "danyaberezun",
+        "OLavrik",
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/coollabsio/coolify",
+      "repo": "coollabsio / coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "language": "PHP",
+      "stars_today": 152,
+      "total_stars": 64372,
+      "total_forks": 5785,
+      "contributors": [
+        "andrasbacsai",
+        "claude",
+        "ShadowArcanist"
+      ]
+    },
+    {
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "repo": "cloudflare / security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_today": 2878,
+      "total_stars": 46873,
+      "total_forks": 2903,
+      "contributors": [
+        "CooperSheroy"
+      ]
+    },
+    {
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "repo": "AgriciDaniel / claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "language": "Python",
+      "stars_today": 197,
+      "total_stars": 20853,
+      "total_forks": 2953,
+      "contributors": [
+        "AgriciDaniel",
+        "claude",
+        "Nordalux",
+        "dependabot",
+        "codex"
+      ]
+    }
+  ]
+}
