@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-28",
+  "fetched_at": "2026-10-28T00:25:23.803089+00:00",
+  "count": 11,
+  "repos": [
+    {
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "repo": "elayadesign / ai-design-skills",
+      "description": "",
+      "language": "Unknown",
+      "stars_today": 1395,
+      "total_stars": 0,
+      "total_forks": 0,
+      "contributors": [
+        "elayadesign",
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/Nutlope/hallmark",
+      "repo": "Nutlope / hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": 2830,
+      "total_stars": 38979,
+      "total_forks": 2032,
+      "contributors": [
+        "Luffixos",
+        "Nutlope",
+        "claude",
+        "riccardogiorato",
+        "JaySmith502"
+      ]
+    },
+    {
+      "url": "https://github.com/nightly-labs/openbot",
+      "repo": "nightly-labs / openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars_today": 777,
+      "total_stars": 2417,
+      "total_forks": 249,
+      "contributors": [
+        "NorbertBodziony",
+        "claude",
+        "Sniezka1927",
+        "aniruddhaadak80"
+      ]
+    },
+    {
+      "url": "https://github.com/obra/superpowers",
+      "repo": "obra / superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars_today": 617,
+      "total_stars": 306431,
+      "total_forks": 27277,
+      "contributors": [
+        "obra",
+        "arittr",
+        "claude",
+        "clkao",
+        "arimu1"
+      ]
+    },
+    {
+      "url": "https://github.com/pbakaus/impeccable",
+      "repo": "pbakaus / impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars_today": 1449,
+      "total_stars": 90497,
+      "total_forks": 5375,
+      "contributors": [
+        "pbakaus",
+        "claude",
+        "abdulwahabone",
+        "cursoragent"
+      ]
+    },
+    {
+      "url": "https://github.com/makecindy/cindy",
+      "repo": "makecindy / cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars_today": 1465,
+      "total_stars": 7455,
+      "total_forks": 885,
+      "contributors": [
+        "dashhuang",
+        "zqchris",
+        "MagicLizi",
+        "DavidShenXD",
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "repo": "gitroomhq / postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "language": "TypeScript",
+      "stars_today": 951,
+      "total_stars": 39363,
+      "total_forks": 7515,
+      "contributors": [
+        "giladresisi",
+        "egelhaus",
+        "claude",
+        "jamesread"
+      ]
+    },
+    {
+      "url": "https://github.com/affaan-m/ECC",
+      "repo": "affaan-m / ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": 1165,
+      "total_stars": 290872,
+      "total_forks": 43073,
+      "contributors": [
+        "haelyra",
+        "claude",
+        "montjeffrey",
+        "dependabot"
+      ]
+    },
+    {
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "repo": "HKUDS / DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars_today": 1598,
+      "total_stars": 45858,
+      "total_forks": 5752,
+      "contributors": [
+        "pancacake",
+        "claude",
+        "Pinkllow"
+      ]
+    },
+    {
+      "url": "https://github.com/JetBrains/thinkrail",
+      "repo": "JetBrains / thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars_today": 1204,
+      "total_stars": 3983,
+      "total_forks": 214,
+      "contributors": [
+        "rsolmano",
+        "danyaberezun",
+        "OLavrik",
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "repo": "togg53192-cmd / jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": "Unknown",
+      "stars_today": 902,
+      "total_stars": 0,
+      "total_forks": 0,
+      "contributors": [
+        "raghavraut",
+        "metalim",
+        "reblox01"
+      ]
+    }
+  ]
+}

@@ -1,16 +1,29 @@
 {
-  "date": "2026-10-27",
-  "fetched_at": "2026-10-27T00:32:40.941443+00:00",
-  "count": 14,
+  "date": "2026-10-28",
+  "fetched_at": "2026-10-28T00:25:23.803089+00:00",
+  "count": 11,
   "repos": [
+    {
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "repo": "elayadesign / ai-design-skills",
+      "description": "",
+      "language": "Unknown",
+      "stars_today": 1395,
+      "total_stars": 0,
+      "total_forks": 0,
+      "contributors": [
+        "elayadesign",
+        "claude"
+      ]
+    },
     {
       "url": "https://github.com/Nutlope/hallmark",
       "repo": "Nutlope / hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_today": 2244,
-      "total_stars": 36298,
-      "total_forks": 1894,
+      "stars_today": 2830,
+      "total_stars": 38979,
+      "total_forks": 2032,
       "contributors": [
         "Luffixos",
         "Nutlope",
@@ -20,33 +33,49 @@
       ]
     },
     {
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "repo": "TauricResearch / TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_today": 1395,
-      "total_stars": 116080,
-      "total_forks": 22274,
+      "url": "https://github.com/nightly-labs/openbot",
+      "repo": "nightly-labs / openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars_today": 777,
+      "total_stars": 2417,
+      "total_forks": 249,
       "contributors": [
-        "EdwardoSunny",
-        "CadeYu",
-        "luohy15",
-        "claude"
+        "NorbertBodziony",
+        "claude",
+        "Sniezka1927",
+        "aniruddhaadak80"
       ]
     },
     {
-      "url": "https://github.com/JetBrains/thinkrail",
-      "repo": "JetBrains / thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "language": "TypeScript",
-      "stars_today": 1173,
-      "total_stars": 2885,
-      "total_forks": 154,
+      "url": "https://github.com/obra/superpowers",
+      "repo": "obra / superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars_today": 617,
+      "total_stars": 306431,
+      "total_forks": 27277,
       "contributors": [
-        "rsolmano",
-        "danyaberezun",
-        "OLavrik",
-        "claude"
+        "obra",
+        "arittr",
+        "claude",
+        "clkao",
+        "arimu1"
+      ]
+    },
+    {
+      "url": "https://github.com/pbakaus/impeccable",
+      "repo": "pbakaus / impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars_today": 1449,
+      "total_stars": 90497,
+      "total_forks": 5375,
+      "contributors": [
+        "pbakaus",
+        "claude",
+        "abdulwahabone",
+        "cursoragent"
       ]
     },
     {
@@ -54,9 +83,9 @@
       "repo": "makecindy / cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars_today": 1296,
-      "total_stars": 6459,
-      "total_forks": 788,
+      "stars_today": 1465,
+      "total_stars": 7455,
+      "total_forks": 885,
       "contributors": [
         "dashhuang",
         "zqchris",
@@ -66,120 +95,13 @@
       ]
     },
     {
-      "url": "https://github.com/affaan-m/ECC",
-      "repo": "affaan-m / ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": 896,
-      "total_stars": 289837,
-      "total_forks": 42947,
-      "contributors": [
-        "haelyra",
-        "claude",
-        "montjeffrey",
-        "dependabot"
-      ]
-    },
-    {
-      "url": "https://github.com/pbakaus/impeccable",
-      "repo": "pbakaus / impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "Rust",
-      "stars_today": 1506,
-      "total_stars": 89185,
-      "total_forks": 5310,
-      "contributors": [
-        "pbakaus",
-        "claude",
-        "abdulwahabone",
-        "cursoragent"
-      ]
-    },
-    {
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "repo": "NVIDIA / SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "language": "Python",
-      "stars_today": 214,
-      "total_stars": 22176,
-      "total_forks": 1937,
-      "contributors": [
-        "rng1995",
-        "yashrajp22",
-        "claude",
-        "keshprad"
-      ]
-    },
-    {
-      "url": "https://github.com/pollen-robotics/microduck",
-      "repo": "pollen-robotics / microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "language": "Rust",
-      "stars_today": 843,
-      "total_stars": 12405,
-      "total_forks": 1546,
-      "contributors": [
-        "apirrone",
-        "claude",
-        "Drenayaz",
-        "Nixxx19"
-      ]
-    },
-    {
-      "url": "https://github.com/nightly-labs/openbot",
-      "repo": "nightly-labs / openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "language": "TypeScript",
-      "stars_today": 176,
-      "total_stars": 1466,
-      "total_forks": 184,
-      "contributors": [
-        "NorbertBodziony",
-        "claude",
-        "Sniezka1927",
-        "aniruddhaadak80"
-      ]
-    },
-    {
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "repo": "Panniantong / Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_today": 746,
-      "total_stars": 103567,
-      "total_forks": 9187,
-      "contributors": [
-        "Panniantong",
-        "claude",
-        "LohseZSai",
-        "nyxst4ck",
-        "ricardolaurito"
-      ]
-    },
-    {
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "repo": "debpalash / VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars_today": 2297,
-      "total_stars": 89221,
-      "total_forks": 9844,
-      "contributors": [
-        "debpalash",
-        "claude",
-        "velixio",
-        "kevin9327",
-        "jaketame"
-      ]
-    },
-    {
       "url": "https://github.com/gitroomhq/postiz-app",
       "repo": "gitroomhq / postiz-app",
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "language": "TypeScript",
-      "stars_today": 188,
-      "total_stars": 38444,
-      "total_forks": 7455,
+      "stars_today": 951,
+      "total_stars": 39363,
+      "total_forks": 7515,
       "contributors": [
         "giladresisi",
         "egelhaus",
@@ -188,33 +110,61 @@
       ]
     },
     {
-      "url": "https://github.com/alchaincyf/huashu-design",
-      "repo": "alchaincyf / huashu-design",
-      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor &amp; any agent",
-      "language": "HTML",
-      "stars_today": 251,
-      "total_stars": 26734,
-      "total_forks": 2961,
+      "url": "https://github.com/affaan-m/ECC",
+      "repo": "affaan-m / ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": 1165,
+      "total_stars": 290872,
+      "total_forks": 43073,
       "contributors": [
-        "alchaincyf",
+        "haelyra",
         "claude",
-        "Jiandong7"
+        "montjeffrey",
+        "dependabot"
       ]
     },
     {
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "repo": "multica-ai / andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "repo": "HKUDS / DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars_today": 1598,
+      "total_stars": 45858,
+      "total_forks": 5752,
+      "contributors": [
+        "pancacake",
+        "claude",
+        "Pinkllow"
+      ]
+    },
+    {
+      "url": "https://github.com/JetBrains/thinkrail",
+      "repo": "JetBrains / thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars_today": 1204,
+      "total_stars": 3983,
+      "total_forks": 214,
+      "contributors": [
+        "rsolmano",
+        "danyaberezun",
+        "OLavrik",
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "repo": "togg53192-cmd / jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
       "language": "Unknown",
-      "stars_today": 638,
+      "stars_today": 902,
       "total_stars": 0,
       "total_forks": 0,
       "contributors": [
-        "forrestchang",
-        "claude",
-        "back1ply",
-        "herobrine19",
-        "szkocot"
+        "raghavraut",
+        "metalim",
+        "reblox01"
       ]
     }
   ]
