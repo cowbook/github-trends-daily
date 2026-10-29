@@ -1,14 +1,29 @@
 {
-  "date": "2026-10-28",
-  "fetched_at": "2026-10-28T00:25:23.803089+00:00",
-  "count": 11,
+  "date": "2026-10-29",
+  "fetched_at": "2026-10-29T00:25:18.425800+00:00",
+  "count": 14,
   "repos": [
+    {
+      "url": "https://github.com/JetBrains/thinkrail",
+      "repo": "JetBrains / thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars_today": 1068,
+      "total_stars": 5025,
+      "total_forks": 260,
+      "contributors": [
+        "rsolmano",
+        "danyaberezun",
+        "OLavrik",
+        "claude"
+      ]
+    },
     {
       "url": "https://github.com/elayadesign/ai-design-skills",
       "repo": "elayadesign / ai-design-skills",
       "description": "",
       "language": "Unknown",
-      "stars_today": 1395,
+      "stars_today": 2139,
       "total_stars": 0,
       "total_forks": 0,
       "contributors": [
@@ -17,44 +32,13 @@
       ]
     },
     {
-      "url": "https://github.com/Nutlope/hallmark",
-      "repo": "Nutlope / hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars_today": 2830,
-      "total_stars": 38979,
-      "total_forks": 2032,
-      "contributors": [
-        "Luffixos",
-        "Nutlope",
-        "claude",
-        "riccardogiorato",
-        "JaySmith502"
-      ]
-    },
-    {
-      "url": "https://github.com/nightly-labs/openbot",
-      "repo": "nightly-labs / openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "language": "TypeScript",
-      "stars_today": 777,
-      "total_stars": 2417,
-      "total_forks": 249,
-      "contributors": [
-        "NorbertBodziony",
-        "claude",
-        "Sniezka1927",
-        "aniruddhaadak80"
-      ]
-    },
-    {
       "url": "https://github.com/obra/superpowers",
       "repo": "obra / superpowers",
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "language": "Shell",
-      "stars_today": 617,
-      "total_stars": 306431,
-      "total_forks": 27277,
+      "stars_today": 1095,
+      "total_stars": 307433,
+      "total_forks": 27348,
       "contributors": [
         "obra",
         "arittr",
@@ -64,13 +48,59 @@
       ]
     },
     {
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "repo": "HKUDS / DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars_today": 2371,
+      "total_stars": 47953,
+      "total_forks": 5948,
+      "contributors": [
+        "pancacake",
+        "claude",
+        "Pinkllow"
+      ]
+    },
+    {
+      "url": "https://github.com/macro-inc/macro",
+      "repo": "macro-inc / macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars_today": 117,
+      "total_stars": 5413,
+      "total_forks": 518,
+      "contributors": [
+        "gbirman",
+        "whutchinson98",
+        "synoet",
+        "sedson",
+        "peterchinman"
+      ]
+    },
+    {
+      "url": "https://github.com/Nutlope/hallmark",
+      "repo": "Nutlope / hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": 2110,
+      "total_stars": 40690,
+      "total_forks": 2111,
+      "contributors": [
+        "Luffixos",
+        "Nutlope",
+        "claude",
+        "riccardogiorato",
+        "JaySmith502"
+      ]
+    },
+    {
       "url": "https://github.com/pbakaus/impeccable",
       "repo": "pbakaus / impeccable",
-      "description": "The design language that makes your AI harness better at design.",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "stars_today": 1449,
-      "total_stars": 90497,
-      "total_forks": 5375,
+      "stars_today": 1472,
+      "total_stars": 92625,
+      "total_forks": 5478,
       "contributors": [
         "pbakaus",
         "claude",
@@ -83,9 +113,9 @@
       "repo": "makecindy / cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars_today": 1465,
-      "total_stars": 7455,
-      "total_forks": 885,
+      "stars_today": 728,
+      "total_stars": 8091,
+      "total_forks": 943,
       "contributors": [
         "dashhuang",
         "zqchris",
@@ -95,62 +125,18 @@
       ]
     },
     {
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "repo": "gitroomhq / postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "url": "https://github.com/nightly-labs/openbot",
+      "repo": "nightly-labs / openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
-      "stars_today": 951,
-      "total_stars": 39363,
-      "total_forks": 7515,
+      "stars_today": 1054,
+      "total_stars": 3241,
+      "total_forks": 315,
       "contributors": [
-        "giladresisi",
-        "egelhaus",
+        "NorbertBodziony",
         "claude",
-        "jamesread"
-      ]
-    },
-    {
-      "url": "https://github.com/affaan-m/ECC",
-      "repo": "affaan-m / ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": 1165,
-      "total_stars": 290872,
-      "total_forks": 43073,
-      "contributors": [
-        "haelyra",
-        "claude",
-        "montjeffrey",
-        "dependabot"
-      ]
-    },
-    {
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "repo": "HKUDS / DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
-      "stars_today": 1598,
-      "total_stars": 45858,
-      "total_forks": 5752,
-      "contributors": [
-        "pancacake",
-        "claude",
-        "Pinkllow"
-      ]
-    },
-    {
-      "url": "https://github.com/JetBrains/thinkrail",
-      "repo": "JetBrains / thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "language": "TypeScript",
-      "stars_today": 1204,
-      "total_stars": 3983,
-      "total_forks": 214,
-      "contributors": [
-        "rsolmano",
-        "danyaberezun",
-        "OLavrik",
-        "claude"
+        "Sniezka1927",
+        "aniruddhaadak80"
       ]
     },
     {
@@ -158,13 +144,75 @@
       "repo": "togg53192-cmd / jailbreaks",
       "description": "LIST OF ALL MY JAILBREAKS",
       "language": "Unknown",
-      "stars_today": 902,
+      "stars_today": 1477,
       "total_stars": 0,
       "total_forks": 0,
       "contributors": [
         "raghavraut",
         "metalim",
         "reblox01"
+      ]
+    },
+    {
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "repo": "hmjz100 / LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "language": "JavaScript",
+      "stars_today": 1616,
+      "total_stars": 34601,
+      "total_forks": 34601,
+      "contributors": [
+        "hmjz100",
+        "MisaLiu",
+        "sherlocknieh",
+        "DeepslateQAQ"
+      ]
+    },
+    {
+      "url": "https://github.com/expo/skills",
+      "repo": "expo / skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "language": "Shell",
+      "stars_today": 90,
+      "total_stars": 3570,
+      "total_forks": 227,
+      "contributors": [
+        "EvanBacon",
+        "Kudo",
+        "gwdp",
+        "claude",
+        "ide"
+      ]
+    },
+    {
+      "url": "https://github.com/ruvnet/RuView",
+      "repo": "ruvnet / RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": 557,
+      "total_stars": 101039,
+      "total_forks": 13160,
+      "contributors": [
+        "ruvnet",
+        "claude",
+        "aepod",
+        "dependabot"
+      ]
+    },
+    {
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "repo": "xiaolai / the-craft-of-selfteaching",
+      "description": "One has no future if one couldn't teach themself.",
+      "language": "Jupyter Notebook",
+      "stars_today": 148,
+      "total_stars": 18491,
+      "total_forks": 17886,
+      "contributors": [
+        "xiaolai",
+        "wpeiran",
+        "towerzju",
+        "HarryYC",
+        "ljqbpm"
       ]
     }
   ]
