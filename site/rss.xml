@@ -7,6 +7,13 @@
     <language>zh-CN</language>
     
     <item>
+        <title>今日 GitHub 热搜： claude-mem 成最大赢家，还有 16 个陪跑选手</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-11-02.html</link>
+        <description>GitHub Trending 2026-11-02 - 17 repos, +13666 stars</description>
+        <pubDate>2026-11-02T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-11-02.html</guid>
+    </item>
+    <item>
         <title>GitHub Trending 2026-11-01： claude-mem 领跑，14 个项目杀入榜单</title>
         <link>https://cowbook.github.io/github-trends-daily/posts/2026-11-01.html</link>
         <description>GitHub Trending 2026-11-01 - 14 repos, +12860 stars</description>
@@ -138,13 +145,6 @@
         <description>GitHub Trending 2026-10-14 - 9 repos, +67642 stars</description>
         <pubDate>2026-10-14T00:00:00Z</pubDate>
         <guid>https://cowbook.github.io/github-trends-daily/posts/2026-10-14.html</guid>
-    </item>
-    <item>
-        <title>今日 GitHub 热搜： rea 成最大赢家，还有 8 个陪跑选手</title>
-        <link>https://cowbook.github.io/github-trends-daily/posts/2026-10-13.html</link>
-        <description>GitHub Trending 2026-10-13 - 9 repos, +55403 stars</description>
-        <pubDate>2026-10-13T00:00:00Z</pubDate>
-        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-10-13.html</guid>
     </item>
 </channel>
 </rss>
