@@ -1,16 +1,31 @@
 {
-  "date": "2026-11-06",
-  "fetched_at": "2026-11-06T00:22:11.721169+00:00",
-  "count": 15,
+  "date": "2026-11-07",
+  "fetched_at": "2026-11-07T00:19:31.650793+00:00",
+  "count": 17,
   "repos": [
+    {
+      "url": "https://github.com/zed-industries/zed",
+      "repo": "zed-industries / zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars_today": 306,
+      "total_stars": 93613,
+      "total_forks": 11499,
+      "contributors": [
+        "maxbrunsfeld",
+        "maxdeviant",
+        "nathansobo",
+        "ConradIrwin"
+      ]
+    },
     {
       "url": "https://github.com/NVIDIA/auto-ontology",
       "repo": "NVIDIA / auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
-      "stars_today": 2679,
-      "total_stars": 7287,
-      "total_forks": 578,
+      "stars_today": 2015,
+      "total_stars": 9001,
+      "total_forks": 724,
       "contributors": [
         "DinaLaptii",
         "yuvalshkolar",
@@ -19,105 +34,112 @@
       ]
     },
     {
-      "url": "https://github.com/mattpocock/skills",
-      "repo": "mattpocock / skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_today": 2071,
-      "total_stars": 315190,
-      "total_forks": 26393,
+      "url": "https://github.com/rails/rails",
+      "repo": "rails / rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars_today": 142,
+      "total_stars": 59023,
+      "total_forks": 23833,
       "contributors": [
-        "mattpocock",
-        "claude",
-        "gabimoncha"
+        "rafaelfranca",
+        "kamipo",
+        "jeremy",
+        "tenderlove",
+        "byroot"
       ]
     },
     {
-      "url": "https://github.com/garrytan/gstack",
-      "repo": "garrytan / gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "language": "TypeScript",
-      "stars_today": 612,
-      "total_stars": 139929,
-      "total_forks": 20693,
-      "contributors": [
-        "garrytan",
-        "claude",
-        "test22345",
-        "szsunyuan"
-      ]
-    },
-    {
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "repo": "Usagi-org / ai-goofish-monitor",
-      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "language": "Python",
-      "stars_today": 240,
-      "total_stars": 17513,
-      "total_forks": 2941,
-      "contributors": [
-        "dingyufei615",
-        "claude",
-        "claude",
-        "ijodion",
-        "hurleychin"
-      ]
-    },
-    {
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "repo": "D4Vinci / Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "language": "Python",
-      "stars_today": 1655,
-      "total_stars": 97950,
-      "total_forks": 10255,
-      "contributors": [
-        "D4Vinci",
-        "yetval",
-        "AbdullahY36",
-        "SulimanAbdulrazzaq",
-        "codex"
-      ]
-    },
-    {
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "repo": "vercel-labs / agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "language": "Rust",
-      "stars_today": 2173,
-      "total_stars": 16821,
-      "total_forks": 1186,
-      "contributors": [
-        "lahfir",
-        "dependabot",
-        "ctate"
-      ]
-    },
-    {
-      "url": "https://github.com/max-sixty/worktrunk",
-      "repo": "max-sixty / worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "stars_today": 546,
-      "total_stars": 11504,
-      "total_forks": 438,
-      "contributors": [
-        "claude",
-        "dependabot"
-      ]
-    },
-    {
-      "url": "https://github.com/lz4/lz4",
-      "repo": "lz4 / lz4",
-      "description": "Extremely Fast Compression algorithm",
+      "url": "https://github.com/mpv-player/mpv",
+      "repo": "mpv-player / mpv",
+      "description": "🎥 Command line media player",
       "language": "C",
-      "stars_today": 23,
-      "total_stars": 12374,
-      "total_forks": 1634,
+      "stars_today": 37,
+      "total_stars": 37872,
+      "total_forks": 3632,
       "contributors": [
-        "Cyan4973",
-        "inikep",
-        "felixhandte",
+        "kasper93",
+        "Dudemanguy",
+        "guidocella",
+        "haasn",
+        "pigoz"
+      ]
+    },
+    {
+      "url": "https://github.com/rust-lang/rust",
+      "repo": "rust-lang / rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars_today": 192,
+      "total_stars": 121440,
+      "total_forks": 17365,
+      "contributors": [
+        "bors",
+        "matthiaskrgr",
+        "RalfJung",
+        "GuillaumeGomez",
+        "matklad"
+      ]
+    },
+    {
+      "url": "https://github.com/react/react",
+      "repo": "react / react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars_today": 248,
+      "total_stars": 252252,
+      "total_forks": 51811,
+      "contributors": [
+        "sebmarkbage",
+        "zpao",
+        "gaearon",
+        "acdlite",
+        "sophiebits"
+      ]
+    },
+    {
+      "url": "https://github.com/angular/angular",
+      "repo": "angular / angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "language": "TypeScript",
+      "stars_today": 135,
+      "total_stars": 101355,
+      "total_forks": 28912,
+      "contributors": [
+        "gkalpak",
+        "petebacondarwin",
+        "crisbeto",
+        "devversion"
+      ]
+    },
+    {
+      "url": "https://github.com/symfony/symfony",
+      "repo": "symfony / symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars_today": 128,
+      "total_stars": 31426,
+      "total_forks": 9948,
+      "contributors": [
+        "fabpot",
+        "xabbuh",
+        "derrabus",
+        "chalasr"
+      ]
+    },
+    {
+      "url": "https://github.com/prometheus/prometheus",
+      "repo": "prometheus / prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars_today": 148,
+      "total_stars": 67178,
+      "total_forks": 10988,
+      "contributors": [
+        "fabxc",
+        "juliusv",
+        "beorn7",
+        "bboreham",
         "dependabot"
       ]
     },
@@ -126,9 +148,9 @@
       "repo": "google / skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_today": 211,
-      "total_stars": 22363,
-      "total_forks": 1891,
+      "stars_today": 534,
+      "total_stars": 22829,
+      "total_forks": 1920,
       "contributors": [
         "holtskinner",
         "martinvarelaj",
@@ -137,94 +159,108 @@
       ]
     },
     {
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "repo": "vercel-labs / agent-browser",
-      "description": "Browser automation CLI for AI agents",
+      "url": "https://github.com/microsoft/vscode",
+      "repo": "microsoft / vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "stars_today": 301,
+      "total_stars": 195022,
+      "total_forks": 44425,
+      "contributors": [
+        "bpasero",
+        "jrieken",
+        "Tyriar",
+        "sandy081",
+        "joaomoreno"
+      ]
+    },
+    {
+      "url": "https://github.com/nushell/nushell",
+      "repo": "nushell / nushell",
+      "description": "A new type of shell",
       "language": "Rust",
-      "stars_today": 150,
-      "total_stars": 45870,
-      "total_forks": 3147,
+      "stars_today": 131,
+      "total_stars": 40979,
+      "total_forks": 2343,
       "contributors": [
-        "ctate",
-        "Railly",
-        "lahfir",
-        "claude"
+        "sophiajt",
+        "fdncred",
+        "sholderbach",
+        "dependabot",
+        "andrasio"
       ]
     },
     {
-      "url": "https://github.com/scenario-labs/skills",
-      "repo": "scenario-labs / skills",
-      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-      "language": "Python",
-      "stars_today": 667,
-      "total_stars": 3043,
-      "total_forks": 269,
+      "url": "https://github.com/etcd-io/etcd",
+      "repo": "etcd-io / etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars_today": 128,
+      "total_stars": 52613,
+      "total_forks": 10590,
       "contributors": [
-        "hervenivon",
+        "gyuho",
+        "ahrtr",
+        "xiang90",
+        "serathius",
+        "yichengq"
+      ]
+    },
+    {
+      "url": "https://github.com/openssl/openssl",
+      "repo": "openssl / openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "stars_today": 26,
+      "total_stars": 31285,
+      "total_forks": 11580,
+      "contributors": [
+        "levitte",
+        "mattcaswell",
+        "paulidale",
+        "snhenson"
+      ]
+    },
+    {
+      "url": "https://github.com/mattpocock/skills",
+      "repo": "mattpocock / skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": 2070,
+      "total_stars": 316699,
+      "total_forks": 26493,
+      "contributors": [
+        "mattpocock",
         "claude",
-        "codex",
-        "edemaistre"
+        "gabimoncha"
       ]
     },
     {
-      "url": "https://github.com/ConardLi/garden-skills",
-      "repo": "ConardLi / garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "repo": "cloudflare / security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars_today": 175,
-      "total_stars": 14117,
-      "total_forks": 1647,
+      "stars_today": 2548,
+      "total_stars": 63963,
+      "total_forks": 4145,
       "contributors": [
-        "ConardLi",
-        "cursoragent",
-        "eltociear"
+        "CooperSheroy"
       ]
     },
     {
-      "url": "https://github.com/microsoft/VibeVoice",
-      "repo": "microsoft / VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars_today": 223,
-      "total_stars": 55906,
-      "total_forks": 6286,
+      "url": "https://github.com/astral-sh/ruff",
+      "repo": "astral-sh / ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars_today": 169,
+      "total_stars": 50688,
+      "total_forks": 2611,
       "contributors": [
-        "YaoyaoChang",
-        "pengzhiliang",
-        "MSLDCherryPick",
-        "Copilot",
-        "jsoref"
-      ]
-    },
-    {
-      "url": "https://github.com/floci-io/floci",
-      "repo": "floci-io / floci",
-      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "language": "Java",
-      "stars_today": 779,
-      "total_stars": 30391,
-      "total_forks": 3331,
-      "contributors": [
-        "hectorvent",
-        "pgermosen",
-        "AndreKurait",
-        "okinaka",
-        "exoego"
-      ]
-    },
-    {
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "repo": "JiaFeiMiao-K-Cat / DiscImageStudio",
-      "description": "",
-      "language": "C#",
-      "stars_today": 984,
-      "total_stars": 7255,
-      "total_forks": 260,
-      "contributors": [
-        "Catho168",
-        "eltociear",
-        "keremuysal",
-        "claude"
+        "charliermarsh",
+        "MichaReiser",
+        "AlexWaygood",
+        "renovate",
+        "sharkdp"
       ]
     }
   ]
