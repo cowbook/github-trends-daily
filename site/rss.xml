@@ -7,6 +7,13 @@
     <language>zh-CN</language>
     
     <item>
+        <title>今日 GitHub 热搜： sherlock 成最大赢家，还有 8 个陪跑选手</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-11-09.html</link>
+        <description>GitHub Trending 2026-11-09 - 9 repos, +7172 stars</description>
+        <pubDate>2026-11-09T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-11-09.html</guid>
+    </item>
+    <item>
         <title>【GitHub 日报】2026-11-08：今天  agent-browser 最火，程序员的品味终于正常了？</title>
         <link>https://cowbook.github.io/github-trends-daily/posts/2026-11-08.html</link>
         <description>GitHub Trending 2026-11-08 - 15 repos, +10433 stars</description>
@@ -138,13 +145,6 @@
         <description>GitHub Trending 2026-10-21 - 14 repos, +14610 stars</description>
         <pubDate>2026-10-21T00:00:00Z</pubDate>
         <guid>https://cowbook.github.io/github-trends-daily/posts/2026-10-21.html</guid>
-    </item>
-    <item>
-        <title>【GitHub 日报】2026-10-20：今天  ai-job-search 最火，程序员的品味终于正常了？</title>
-        <link>https://cowbook.github.io/github-trends-daily/posts/2026-10-20.html</link>
-        <description>GitHub Trending 2026-10-20 - 12 repos, +11226 stars</description>
-        <pubDate>2026-10-20T00:00:00Z</pubDate>
-        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-10-20.html</guid>
     </item>
 </channel>
 </rss>
