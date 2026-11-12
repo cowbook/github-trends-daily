@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-12",
+  "fetched_at": "2026-11-12T00:21:40.763139+00:00",
+  "count": 10,
+  "repos": [
+    {
+      "url": "https://github.com/meta/astryx",
+      "repo": "meta / astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_today": 2776,
+      "total_stars": 24935,
+      "total_forks": 1950,
+      "contributors": [
+        "cixzhang",
+        "rubyycheung",
+        "josephfarina",
+        "vjeux"
+      ]
+    },
+    {
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "repo": "ZhuLinsen / daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars_today": 278,
+      "total_stars": 70213,
+      "total_forks": 56838,
+      "contributors": [
+        "ZhuLinsen",
+        "freesme",
+        "Activer007",
+        "birdxs"
+      ]
+    },
+    {
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "repo": "GoogleChrome / modern-web-guidance-src",
+      "description": "",
+      "language": "TypeScript",
+      "stars_today": 159,
+      "total_stars": 1732,
+      "total_forks": 140,
+      "contributors": [
+        "paulirish",
+        "rviscomi",
+        "micahjo7",
+        "philipwalton"
+      ]
+    },
+    {
+      "url": "https://github.com/shadcn/improve",
+      "repo": "shadcn / improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": "Unknown",
+      "stars_today": 361,
+      "total_stars": 0,
+      "total_forks": 0,
+      "contributors": [
+        "shadcn",
+        "claude",
+        "erikpr1994",
+        "beastawakens",
+        "morinim"
+      ]
+    },
+    {
+      "url": "https://github.com/addyosmani/agent-skills",
+      "repo": "addyosmani / agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": 787,
+      "total_stars": 115928,
+      "total_forks": 12160,
+      "contributors": [
+        "addyosmani",
+        "nucliweb",
+        "claude",
+        "rudycelekli",
+        "ayobamiseun"
+      ]
+    },
+    {
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "repo": "vercel-labs / agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars_today": 708,
+      "total_stars": 49852,
+      "total_forks": 3488,
+      "contributors": [
+        "ctate",
+        "Railly",
+        "lahfir",
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/we-promise/sure",
+      "repo": "we-promise / sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars_today": 1078,
+      "total_stars": 12943,
+      "total_forks": 958,
+      "contributors": [
+        "jjmata",
+        "dependabot",
+        "claude",
+        "zachgoll",
+        "Shpigford"
+      ]
+    },
+    {
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "repo": "homeassistant-ai / ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "stars_today": 645,
+      "total_stars": 7355,
+      "total_forks": 455,
+      "contributors": [
+        "claude",
+        "kingpanther13",
+        "julienld",
+        "dependabot"
+      ]
+    },
+    {
+      "url": "https://github.com/openai/codex-security",
+      "repo": "openai / codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "language": "TypeScript",
+      "stars_today": 52,
+      "total_stars": 11706,
+      "total_forks": 937,
+      "contributors": [
+        "codex",
+        "dependabot",
+        "kmbroai"
+      ]
+    },
+    {
+      "url": "https://github.com/TheAlgorithms/Java",
+      "repo": "TheAlgorithms / Java",
+      "description": "All Algorithms implemented in Java",
+      "language": "Java",
+      "stars_today": 51,
+      "total_stars": 67007,
+      "total_forks": 21506,
+      "contributors": [
+        "alxkm",
+        "dependabot",
+        "vil02",
+        "Hardvan",
+        "yanglbme"
+      ]
+    }
+  ]
+}
