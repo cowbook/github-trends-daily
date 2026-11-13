@@ -1,98 +1,67 @@
 {
-  "date": "2026-11-12",
-  "fetched_at": "2026-11-12T00:21:40.763139+00:00",
-  "count": 10,
+  "date": "2026-11-13",
+  "fetched_at": "2026-11-13T00:21:14.664999+00:00",
+  "count": 13,
   "repos": [
-    {
-      "url": "https://github.com/meta/astryx",
-      "repo": "meta / astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "stars_today": 2776,
-      "total_stars": 24935,
-      "total_forks": 1950,
-      "contributors": [
-        "cixzhang",
-        "rubyycheung",
-        "josephfarina",
-        "vjeux"
-      ]
-    },
-    {
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "repo": "ZhuLinsen / daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_today": 278,
-      "total_stars": 70213,
-      "total_forks": 56838,
-      "contributors": [
-        "ZhuLinsen",
-        "freesme",
-        "Activer007",
-        "birdxs"
-      ]
-    },
     {
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "repo": "GoogleChrome / modern-web-guidance-src",
-      "description": "",
+      "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
-      "stars_today": 159,
-      "total_stars": 1732,
-      "total_forks": 140,
+      "stars_today": 739,
+      "total_stars": 2894,
+      "total_forks": 195,
       "contributors": [
         "paulirish",
         "rviscomi",
         "micahjo7",
-        "philipwalton"
+        "LeaVerou"
       ]
     },
     {
-      "url": "https://github.com/shadcn/improve",
-      "repo": "shadcn / improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "language": "Unknown",
-      "stars_today": 361,
-      "total_stars": 0,
-      "total_forks": 0,
+      "url": "https://github.com/openai/codex-security",
+      "repo": "openai / codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "language": "TypeScript",
+      "stars_today": 643,
+      "total_stars": 12407,
+      "total_forks": 976,
       "contributors": [
-        "shadcn",
+        "codex",
+        "dependabot",
+        "kmbroai"
+      ]
+    },
+    {
+      "url": "https://github.com/nvm-sh/nvm",
+      "repo": "nvm-sh / nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "stars_today": 63,
+      "total_stars": 96010,
+      "total_forks": 10758,
+      "contributors": [
+        "ljharb",
+        "PeterDaveHello",
+        "creationix",
+        "koenpunt",
+        "lukechilds"
+      ]
+    },
+    {
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "repo": "pookjw / HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "language": "Objective-C",
+      "stars_today": 218,
+      "total_stars": 1532,
+      "total_forks": 139,
+      "contributors": [
+        "pookjw",
+        "metalnodeug",
+        "SamZong233",
         "claude",
-        "erikpr1994",
-        "beastawakens",
-        "morinim"
-      ]
-    },
-    {
-      "url": "https://github.com/addyosmani/agent-skills",
-      "repo": "addyosmani / agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_today": 787,
-      "total_stars": 115928,
-      "total_forks": 12160,
-      "contributors": [
-        "addyosmani",
-        "nucliweb",
-        "claude",
-        "rudycelekli",
-        "ayobamiseun"
-      ]
-    },
-    {
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "repo": "vercel-labs / agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "stars_today": 708,
-      "total_stars": 49852,
-      "total_forks": 3488,
-      "contributors": [
-        "ctate",
-        "Railly",
-        "lahfir",
-        "claude"
+        "dfrias"
       ]
     },
     {
@@ -100,9 +69,9 @@
       "repo": "we-promise / sure",
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
-      "stars_today": 1078,
-      "total_stars": 12943,
-      "total_forks": 958,
+      "stars_today": 967,
+      "total_stars": 13900,
+      "total_forks": 1040,
       "contributors": [
         "jjmata",
         "dependabot",
@@ -112,48 +81,128 @@
       ]
     },
     {
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "repo": "homeassistant-ai / ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "language": "Python",
-      "stars_today": 645,
-      "total_stars": 7355,
-      "total_forks": 455,
-      "contributors": [
-        "claude",
-        "kingpanther13",
-        "julienld",
-        "dependabot"
-      ]
-    },
-    {
-      "url": "https://github.com/openai/codex-security",
-      "repo": "openai / codex-security",
-      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "repo": "QwenLM / qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
       "language": "TypeScript",
-      "stars_today": 52,
-      "total_stars": 11706,
-      "total_forks": 937,
+      "stars_today": 151,
+      "total_stars": 29798,
+      "total_forks": 3393,
       "contributors": [
-        "codex",
-        "dependabot",
-        "kmbroai"
+        "wenshao",
+        "qwencoder",
+        "yiliang114",
+        "tanzhenxin"
       ]
     },
     {
-      "url": "https://github.com/TheAlgorithms/Java",
-      "repo": "TheAlgorithms / Java",
-      "description": "All Algorithms implemented in Java",
-      "language": "Java",
-      "stars_today": 51,
-      "total_stars": 67007,
-      "total_forks": 21506,
+      "url": "https://github.com/ashhart/TensorFold",
+      "repo": "ashhart / TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "language": "Zig",
+      "stars_today": 54,
+      "total_stars": 1934,
+      "total_forks": 391,
       "contributors": [
-        "alxkm",
+        "ashhart",
+        "jschmied",
+        "BobClawblaw",
+        "laudney",
+        "BlivionIaG"
+      ]
+    },
+    {
+      "url": "https://github.com/nodejs/node",
+      "repo": "nodejs / node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars_today": 62,
+      "total_stars": 123597,
+      "total_forks": 38055,
+      "contributors": [
+        "Trott",
+        "ry",
+        "bnoordhuis",
+        "addaleax",
+        "isaacs"
+      ]
+    },
+    {
+      "url": "https://github.com/addyosmani/agent-skills",
+      "repo": "addyosmani / agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": 816,
+      "total_stars": 116660,
+      "total_forks": 12209,
+      "contributors": [
+        "addyosmani",
+        "nucliweb",
+        "claude",
+        "rudycelekli",
+        "ayobamiseun"
+      ]
+    },
+    {
+      "url": "https://github.com/meta/astryx",
+      "repo": "meta / astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_today": 1830,
+      "total_stars": 26508,
+      "total_forks": 2058,
+      "contributors": [
+        "cixzhang",
+        "rubyycheung",
+        "josephfarina",
+        "vjeux"
+      ]
+    },
+    {
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "repo": "CopilotKit / OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "stars_today": 298,
+      "total_stars": 11593,
+      "total_forks": 1433,
+      "contributors": [
+        "davidmckayv",
+        "claude",
+        "kevin9327",
+        "guidovizoso",
+        "Ayush7614"
+      ]
+    },
+    {
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "repo": "Alishahryar1 / free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars_today": 415,
+      "total_stars": 69282,
+      "total_forks": 10757,
+      "contributors": [
+        "Alishahryar1",
+        "cursoragent",
         "dependabot",
-        "vil02",
-        "Hardvan",
-        "yanglbme"
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "repo": "ggml-org / llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars_today": 176,
+      "total_stars": 134546,
+      "total_forks": 25507,
+      "contributors": [
+        "ggerganov",
+        "ngxson",
+        "CISC",
+        "JohannesGaessler",
+        "slaren"
       ]
     }
   ]
