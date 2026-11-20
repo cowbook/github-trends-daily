@@ -7,6 +7,13 @@
     <language>zh-CN</language>
     
     <item>
+        <title>【GitHub 日报】2026-11-20：今天  Claude-BugHunter 最火，程序员的品味终于正常了？</title>
+        <link>https://cowbook.github.io/github-trends-daily/posts/2026-11-20.html</link>
+        <description>GitHub Trending 2026-11-20 - 16 repos, +8632 stars</description>
+        <pubDate>2026-11-20T00:00:00Z</pubDate>
+        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-11-20.html</guid>
+    </item>
+    <item>
         <title>今日 GitHub 热搜： plugins 成最大赢家，还有 18 个陪跑选手</title>
         <link>https://cowbook.github.io/github-trends-daily/posts/2026-11-19.html</link>
         <description>GitHub Trending 2026-11-19 - 19 repos, +8785 stars</description>
@@ -138,13 +145,6 @@
         <description>GitHub Trending 2026-11-01 - 14 repos, +12860 stars</description>
         <pubDate>2026-11-01T00:00:00Z</pubDate>
         <guid>https://cowbook.github.io/github-trends-daily/posts/2026-11-01.html</guid>
-    </item>
-    <item>
-        <title>GitHub Trending 2026-10-31： claude-mem 领跑，15 个项目杀入榜单</title>
-        <link>https://cowbook.github.io/github-trends-daily/posts/2026-10-31.html</link>
-        <description>GitHub Trending 2026-10-31 - 15 repos, +15307 stars</description>
-        <pubDate>2026-10-31T00:00:00Z</pubDate>
-        <guid>https://cowbook.github.io/github-trends-daily/posts/2026-10-31.html</guid>
     </item>
 </channel>
 </rss>
