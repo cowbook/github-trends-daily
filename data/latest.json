@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-23",
-  "fetched_at": "2026-11-23T00:23:34.012288+00:00",
+  "date": "2026-11-24",
+  "fetched_at": "2026-11-24T00:20:17.724605+00:00",
   "count": 16,
   "repos": [
     {
@@ -8,9 +8,9 @@
       "repo": "elementalsouls / Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "stars_today": 1716,
-      "total_stars": 17775,
-      "total_forks": 1967,
+      "stars_today": 2029,
+      "total_stars": 19736,
+      "total_forks": 2097,
       "contributors": [
         "claude",
         "injectifytest",
@@ -23,9 +23,9 @@
       "repo": "obra / superpowers",
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "language": "Shell",
-      "stars_today": 788,
-      "total_stars": 324155,
-      "total_forks": 28758,
+      "stars_today": 840,
+      "total_stars": 325051,
+      "total_forks": 28833,
       "contributors": [
         "obra",
         "arittr",
@@ -39,9 +39,9 @@
       "repo": "HKUDS / CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars_today": 699,
-      "total_stars": 62775,
-      "total_forks": 5696,
+      "stars_today": 790,
+      "total_stars": 63617,
+      "total_forks": 5778,
       "contributors": [
         "claude",
         "AiMiDi",
@@ -54,9 +54,9 @@
       "repo": "jingyaogong / minimind",
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
-      "stars_today": 473,
-      "total_stars": 68636,
-      "total_forks": 8975,
+      "stars_today": 828,
+      "total_stars": 69443,
+      "total_forks": 9064,
       "contributors": [
         "jingyaogong",
         "Linxiushen",
@@ -68,9 +68,9 @@
       "repo": "cursor / plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars_today": 294,
-      "total_stars": 18439,
-      "total_forks": 2005,
+      "stars_today": 397,
+      "total_stars": 18796,
+      "total_forks": 2042,
       "contributors": [
         "cursoragent",
         "poteto",
@@ -83,9 +83,9 @@
       "repo": "firecrawl / firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
-      "stars_today": 915,
-      "total_stars": 207024,
-      "total_forks": 10817,
+      "stars_today": 924,
+      "total_stars": 207909,
+      "total_forks": 10865,
       "contributors": [
         "nickscamara",
         "mogery",
@@ -99,9 +99,9 @@
       "repo": "nginx / nginx",
       "description": "The official NGINX Open Source repository.",
       "language": "C",
-      "stars_today": 163,
-      "total_stars": 32882,
-      "total_forks": 8381,
+      "stars_today": 174,
+      "total_stars": 33049,
+      "total_forks": 8395,
       "contributors": [
         "mdounin",
         "arut",
@@ -114,9 +114,9 @@
       "repo": "openvinotoolkit / openvino",
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
-      "stars_today": 158,
-      "total_stars": 12090,
-      "total_forks": 3657,
+      "stars_today": 184,
+      "total_stars": 12277,
+      "total_forks": 3680,
       "contributors": [
         "rkazants",
         "ilyachur",
@@ -127,16 +127,16 @@
     {
       "url": "https://github.com/cathrynlavery/diagram-design",
       "repo": "cathrynlavery / diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars_today": 518,
-      "total_stars": 70290,
-      "total_forks": 4715,
+      "stars_today": 620,
+      "total_stars": 70957,
+      "total_forks": 4746,
       "contributors": [
         "cathrynlavery",
         "rudycelekli",
-        "claude",
-        "mvanhorn"
+        "mvanhorn",
+        "claude"
       ]
     },
     {
@@ -144,9 +144,9 @@
       "repo": "mvanhorn / last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": 668,
-      "total_stars": 72702,
-      "total_forks": 6424,
+      "stars_today": 797,
+      "total_stars": 73430,
+      "total_forks": 6479,
       "contributors": [
         "mvanhorn",
         "claude",
@@ -160,9 +160,9 @@
       "repo": "google-labs-code / stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars_today": 494,
-      "total_stars": 11913,
-      "total_forks": 1475,
+      "stars_today": 422,
+      "total_stars": 12276,
+      "total_forks": 1513,
       "contributors": [
         "JLXIA",
         "davideast",
@@ -176,14 +176,14 @@
       "repo": "mjmirza / app-store-compliance",
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
-      "stars_today": 621,
-      "total_stars": 3973,
-      "total_forks": 236,
+      "stars_today": 761,
+      "total_stars": 4956,
+      "total_forks": 314,
       "contributors": [
         "mjmirza",
         "omaralbeik",
         "akash5852",
-        "userInDev"
+        "JoAdo07"
       ]
     },
     {
@@ -191,9 +191,9 @@
       "repo": "Tracer-Cloud / opensre",
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
-      "stars_today": 399,
-      "total_stars": 14408,
-      "total_forks": 1965,
+      "stars_today": 436,
+      "total_stars": 14828,
+      "total_forks": 1988,
       "contributors": [
         "davincios",
         "VaibhavUpreti",
@@ -207,9 +207,9 @@
       "repo": "toeverything / AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "language": "TypeScript",
-      "stars_today": 542,
-      "total_stars": 76813,
-      "total_forks": 5624,
+      "stars_today": 595,
+      "total_stars": 77385,
+      "total_forks": 5663,
       "contributors": [
         "darkskygit",
         "pengx17",
@@ -223,9 +223,9 @@
       "repo": "XiaoYouChR / Ghost-Downloader-3",
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
-      "stars_today": 701,
-      "total_stars": 15125,
-      "total_forks": 909,
+      "stars_today": 1087,
+      "total_stars": 16296,
+      "total_forks": 977,
       "contributors": [
         "XiaoYouChR",
         "i0ntempest",
@@ -237,14 +237,14 @@
       "repo": "zhouxiaoka / autoclip",
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.",
       "language": "Python",
-      "stars_today": 641,
-      "total_stars": 13419,
-      "total_forks": 2124,
+      "stars_today": 907,
+      "total_stars": 14380,
+      "total_forks": 2205,
       "contributors": [
         "zhouxiaoka",
         "cursoragent",
         "claude",
-        "charlie"
+        "JasonOA888"
       ]
     }
   ]
