@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-27",
+  "fetched_at": "2026-11-27T00:21:27.282733+00:00",
+  "count": 16,
+  "repos": [
+    {
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "repo": "elementalsouls / Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "language": "Python",
+      "stars_today": 1597,
+      "total_stars": 24555,
+      "total_forks": 2503,
+      "contributors": [
+        "claude",
+        "injectifytest",
+        "elementalsouls",
+        "rudycelekli"
+      ]
+    },
+    {
+      "url": "https://github.com/obra/superpowers",
+      "repo": "obra / superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars_today": 854,
+      "total_stars": 327477,
+      "total_forks": 29052,
+      "contributors": [
+        "obra",
+        "arittr",
+        "claude",
+        "clkao",
+        "arimu1"
+      ]
+    },
+    {
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "repo": "HKUDS / CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars_today": 746,
+      "total_stars": 66351,
+      "total_forks": 6036,
+      "contributors": [
+        "claude",
+        "AiMiDi",
+        "omerarslan0",
+        "hito0512"
+      ]
+    },
+    {
+      "url": "https://github.com/jingyaogong/minimind",
+      "repo": "jingyaogong / minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "language": "Python",
+      "stars_today": 702,
+      "total_stars": 71619,
+      "total_forks": 9298,
+      "contributors": [
+        "jingyaogong",
+        "Linxiushen",
+        "readlnh"
+      ]
+    },
+    {
+      "url": "https://github.com/cursor/plugins",
+      "repo": "cursor / plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_today": 270,
+      "total_stars": 19783,
+      "total_forks": 2142,
+      "contributors": [
+        "cursoragent",
+        "poteto",
+        "minupalaniappan",
+        "ericzakariasson"
+      ]
+    },
+    {
+      "url": "https://github.com/firecrawl/firecrawl",
+      "repo": "firecrawl / firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "language": "TypeScript",
+      "stars_today": 1046,
+      "total_stars": 210933,
+      "total_forks": 11050,
+      "contributors": [
+        "nickscamara",
+        "mogery",
+        "rafaelsideguide",
+        "abimaelmartell",
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/nginx/nginx",
+      "repo": "nginx / nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars_today": 150,
+      "total_stars": 33521,
+      "total_forks": 8422,
+      "contributors": [
+        "mdounin",
+        "arut",
+        "VBart",
+        "pluknet"
+      ]
+    },
+    {
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "repo": "openvinotoolkit / openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "stars_today": 176,
+      "total_stars": 12819,
+      "total_forks": 3736,
+      "contributors": [
+        "rkazants",
+        "ilyachur",
+        "mvafin",
+        "dependabot"
+      ]
+    },
+    {
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "repo": "cathrynlavery / diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_today": 955,
+      "total_stars": 73834,
+      "total_forks": 4932,
+      "contributors": [
+        "cathrynlavery",
+        "rudycelekli",
+        "mvanhorn",
+        "claude"
+      ]
+    },
+    {
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "repo": "mvanhorn / last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": 759,
+      "total_stars": 75744,
+      "total_forks": 6678,
+      "contributors": [
+        "mvanhorn",
+        "claude",
+        "tmchow",
+        "iliaal",
+        "dependabot"
+      ]
+    },
+    {
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "repo": "google-labs-code / stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars_today": 309,
+      "total_stars": 13287,
+      "total_forks": 1564,
+      "contributors": [
+        "JLXIA",
+        "davideast",
+        "rudycelekli",
+        "Emp1500",
+        "dalmaer"
+      ]
+    },
+    {
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "repo": "mjmirza / app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "language": "Shell",
+      "stars_today": 562,
+      "total_stars": 7024,
+      "total_forks": 469,
+      "contributors": [
+        "mjmirza",
+        "rudycelekli",
+        "satanyakiv",
+        "harpreetkbadhan"
+      ]
+    },
+    {
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "repo": "Tracer-Cloud / opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "language": "Python",
+      "stars_today": 327,
+      "total_stars": 15816,
+      "total_forks": 2064,
+      "contributors": [
+        "davincios",
+        "VaibhavUpreti",
+        "muddlebee",
+        "YauhenBichel",
+        "cursoragent"
+      ]
+    },
+    {
+      "url": "https://github.com/toeverything/AFFiNE",
+      "repo": "toeverything / AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "language": "TypeScript",
+      "stars_today": 525,
+      "total_stars": 78969,
+      "total_forks": 5755,
+      "contributors": [
+        "darkskygit",
+        "pengx17",
+        "JimmFly",
+        "renovate",
+        "EYHN"
+      ]
+    },
+    {
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "repo": "XiaoYouChR / Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "language": "Python",
+      "stars_today": 889,
+      "total_stars": 19101,
+      "total_forks": 1151,
+      "contributors": [
+        "XiaoYouChR",
+        "i0ntempest",
+        "LittleNightSong"
+      ]
+    },
+    {
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "repo": "zhouxiaoka / autoclip",
+      "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping &amp; MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+      "language": "Python",
+      "stars_today": 774,
+      "total_stars": 16926,
+      "total_forks": 2382,
+      "contributors": [
+        "zhouxiaoka",
+        "cursoragent",
+        "claude",
+        "codex",
+        "YxYL6125"
+      ]
+    }
+  ]
+}
